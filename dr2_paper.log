@@ -1,0 +1,1066 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  8 NOV 2017 17:17
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\input dr2_paper.tex
+(./dr2_paper.tex (./mn2e.cls
+Document Class: mn2e 2001/02/06 v2.2 LaTeX2e MN document class
+Document Style `MN' v2.2, released 2001 February 20
+\math@groups=\toks14
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/cmsy/b/n on input line 223.
+\symbmisymbols=\mathgroup4
+\symUPM=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `UPM' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 260.
+\symAMSa=\mathgroup6
+\SFB@measure=\dimen102
+\realparindent=\skip41
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\@indentskip=\skip42
+\smallindent=\skip43
+\@footindent=\skip44
+\@leftskip=\skip45
+\c@dummy=\count85
+(/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count86
+)
+\c@table=\count87
+\c@figure=\count88
+\mathindent=\dimen103
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count90
+\ST@wd=\dimen106
+\ST@rightskip=\skip48
+\ST@leftskip=\skip49
+\ST@parfillskip=\skip50
+\ST@pageleft=\dimen107
+\ST@headht=\dimen108
+\ST@tailht=\dimen109
+\ST@pagesofar=\dimen110
+\ST@pboxht=\dimen111
+\ST@lineht=\dimen112
+\ST@stretchht=\dimen113
+\ST@prevht=\dimen114
+\ST@toadd=\dimen115
+\ST@dimen=\dimen116
+\ST@pbox=\box26
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+
+Package subfig Warning: Your document class has a bad definition
+ of \endfigure, most likely
+ \let\endfigure=\end@float
+ which has now been changed to
+ \def\endfigure{\end@float}
+ because otherwise subsequent changes to \end@float
+ (like done by several packages changing float behaviour)
+ can't take effect on \endfigure.
+ Please complain to your document class author.
+
+
+Package subfig Warning: Your document class has a bad definition
+ of \endtable, most likely
+ \let\endtable=\end@float
+ which has now been changed to
+ \def\endtable{\end@float}
+ because otherwise subsequent changes to \end@float
+ (like done by several packages changing float behaviour)
+ can't take effect on \endtable.
+ Please complain to your document class author.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+\abovecaptionskip=\skip51
+\belowcaptionskip=\skip52
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = undefined.
+\c@ContinuedFloat=\count91
+Package caption Info: supertabular package is loaded.
+)
+\c@KVtest=\count92
+\sf@farskip=\skip53
+\sf@captopadj=\dimen124
+\sf@capskip=\skip54
+\sf@nearskip=\skip55
+\c@subfigure=\count93
+\c@subfigure@save=\count94
+\c@lofdepth=\count95
+\c@subtable=\count96
+\c@subtable@save=\count97
+\c@lotdepth=\count98
+\sf@top=\skip56
+\sf@bottom=\skip57
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count99
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box27
+\rot@mess@toks=\toks16
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen125
+\epsfysize=\dimen126
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 59.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen127
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen128
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen129
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip10
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks19
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks20
+\eqnshift@=\dimen130
+\alignsep@=\dimen131
+\tagshift@=\dimen132
+\tagwidth@=\dimen133
+\totwidth@=\dimen134
+\lineht@=\dimen135
+\@envbody=\toks21
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count112
+\mult@box=\box30
+\multicol@leftmargin=\dimen136
+\c@unbalance=\count113
+\c@collectmore=\count114
+\doublecol@number=\count115
+\multicoltolerance=\count116
+\multicolpretolerance=\count117
+\full@width=\dimen137
+\page@free=\dimen138
+\premulticols=\dimen139
+\postmulticols=\dimen140
+\multicolsep=\skip63
+\multicolbaselineskip=\skip64
+\partial@page=\box31
+\last@line=\box32
+\maxbalancingoverflow=\dimen141
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count118
+\c@finalcolumnbadness=\count119
+\last@try=\dimen142
+\multicolovershoot=\dimen143
+\multicolundershoot=\dimen144
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\mc@col@check@num=\count120
+)
+(./slashbox.sty
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box56
+\@slashboxb=\box57
+\@slashboxc=\box58
+\@slashboxwd=\count121
+\@slashboxht=\count122
+\@slashsepl=\dimen145
+\@slashsepr=\dimen146
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen147
+\pgfutil@tempdimb=\dimen148
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen149
+\pgf@y=\dimen150
+\pgf@xa=\dimen151
+\pgf@ya=\dimen152
+\pgf@xb=\dimen153
+\pgf@yb=\dimen154
+\pgf@xc=\dimen155
+\pgf@yc=\dimen156
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count123
+\c@pgf@countb=\count124
+\c@pgf@countc=\count125
+\c@pgf@countd=\count126
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count127
+\pgfsyssoftpath@bigbuffer@items=\count128
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen157
+\pgfmath@count=\count129
+\pgfmath@box=\box60
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count130
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen158
+\pgf@picmaxx=\dimen159
+\pgf@picminy=\dimen160
+\pgf@picmaxy=\dimen161
+\pgf@pathminx=\dimen162
+\pgf@pathmaxx=\dimen163
+\pgf@pathminy=\dimen164
+\pgf@pathmaxy=\dimen165
+\pgf@xx=\dimen166
+\pgf@xy=\dimen167
+\pgf@yx=\dimen168
+\pgf@yy=\dimen169
+\pgf@zx=\dimen170
+\pgf@zy=\dimen171
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen172
+\pgf@path@lasty=\dimen173
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen174
+\pgf@shorten@start@additional=\dimen175
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count131
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen176
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen177
+\pgf@pt@y=\dimen178
+\pgf@pt@temp=\dimen179
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen180
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen181
+\pgf@sys@shading@range@num=\count132
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box64
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box65
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen182
+\pgf@nodesepend=\dimen183
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen184
+\pgffor@skip=\dimen185
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count133
+\pgfplotmarksize=\dimen186
+)
+\tikz@lastx=\dimen187
+\tikz@lasty=\dimen188
+\tikz@lastxsaved=\dimen189
+\tikz@lastysaved=\dimen190
+\tikzleveldistance=\dimen191
+\tikzsiblingdistance=\dimen192
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count134
+\tikznumberofchildren=\count135
+\tikznumberofcurrentchild=\count136
+\tikz@fig@count=\count137
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count138
+\pgfmatrixcurrentcolumn=\count139
+\pgf@matrix@numberofcolumns=\count140
+)
+\tikz@expandcount=\count141
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+))) (./dr2_paper.aux)
+\openout1 = `dr2_paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 88.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count142
+\scratchdimen=\dimen193
+\scratchbox=\box70
+\nofMPsegments=\count143
+\nofMParguments=\count144
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count145
+\MPscratchDim=\dimen194
+\MPnumerator=\count146
+\makeMPintoPDFobject=\count147
+\everyMPtoPDFconversion=\toks36
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: Incompatible package detected (regarding \caption).
+(caption)             \caption = macro:->\refstepcounter \@captype \@dblarg {\@
+caption \@captype }.
+
+
+Package caption Warning: \caption will not be redefined since it's already
+(caption)                redefined by a document class or package which is
+(caption)                unknown to the caption package.
+See the caption package documentation for explanation.
+
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 94.
+LaTeX Font Info:    Try loading font information for U+eur on input line 94.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 94.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 94.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 98.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 115.
+
+<ngpcoverage.pdf, id=4, 290.1166pt x 256.17255pt>
+File: ngpcoverage.pdf Graphic file (type pdf)
+ <use ngpcoverage.pdf>
+Package pdftex.def Info: ngpcoverage.pdf used on input line 145.
+(pdftex.def)             Requested size: 203.08022pt x 179.31955pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
+
+<sgpcoverage.pdf, id=5, 542.025pt x 167.62625pt>
+File: sgpcoverage.pdf Graphic file (type pdf)
+ <use sgpcoverage.pdf>
+Package pdftex.def Info: sgpcoverage.pdf used on input line 155.
+(pdftex.def)             Requested size: 542.02367pt x 167.62582pt.
+
+Overfull \hbox (38.02367pt too wide) in paragraph at lines 155--162
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 177.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 2941) in paragraph at lines 173--183
+\OT1/ptm/m/n/9 Before at-tempt-ing to de-tect sources in the maps, we first
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 173--183
+\OT1/ptm/m/n/9 sub-tract a smoothly vary-ing 'sky' level to re-move the flux
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 173--183
+\OT1/ptm/m/n/9 and also by the vary-ing back-ground from clus-tered sources
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 173--183
+\OT1/ptm/m/n/9 fainter than our de-tec-tion limit. We use the \OT1/pcr/m/n/9 ne
+buliser
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 173--183
+\OT1/ptm/m/n/9 func-tion from the CASU pack-age to es-ti-mate and sub-
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 173--183
+\OT1/ptm/m/n/9 projects/software-release/background-filtering). The fil-ter sca
+les
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 199.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 199.
+ [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./ngpcoverage.pdf>]
+<cum_counts_100.pdf, id=37, 845.1575pt x 597.23125pt>
+File: cum_counts_100.pdf Graphic file (type pdf)
+ <use cum_counts_100.pdf>
+Package pdftex.def Info: cum_counts_100.pdf used on input line 242.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+<cum_counts_160.pdf, id=39, 845.1575pt x 597.23125pt>
+File: cum_counts_160.pdf Graphic file (type pdf)
+ <use cum_counts_160.pdf>
+Package pdftex.def Info: cum_counts_160.pdf used on input line 243.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+<cum_counts_250.pdf, id=41, 845.1575pt x 597.23125pt>
+File: cum_counts_250.pdf Graphic file (type pdf)
+ <use cum_counts_250.pdf>
+Package pdftex.def Info: cum_counts_250.pdf used on input line 244.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+<cum_counts_350.pdf, id=43, 845.1575pt x 597.23125pt>
+File: cum_counts_350.pdf Graphic file (type pdf)
+ <use cum_counts_350.pdf>
+Package pdftex.def Info: cum_counts_350.pdf used on input line 245.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+<cum_counts_500.pdf, id=45, 845.1575pt x 597.23125pt>
+File: cum_counts_500.pdf Graphic file (type pdf)
+ <use cum_counts_500.pdf>
+Package pdftex.def Info: cum_counts_500.pdf used on input line 246.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--250
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--250
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--250
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--250
+[]
+ []
+
+
+LaTeX Warning: Float too large for page by 23.95468pt on input line 251.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./sgpcoverage.pdf>] [3 <./cum_counts_100.pdf, page is rotated 90 degrees> 
+<./cum_counts_160.pdf, page is rotated 90 degrees> <./cum_counts_250.pdf, page 
+is rotated 90 degrees> <./cum_counts_350.pdf, page is rotated 90 degrees> <./cu
+m_counts_500.pdf, page is rotated 90 degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 414--414
+$[]$ []\OT1/pcr/m/n/8 http://herschel.esac.esa.int/twiki/pub/Public/
+ []
+
+<flux_noise_250NGP.pdf, id=99, 845.1575pt x 597.23125pt>
+File: flux_noise_250NGP.pdf Graphic file (type pdf)
+
+<use flux_noise_250NGP.pdf>
+Package pdftex.def Info: flux_noise_250NGP.pdf used on input line 428.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_350NGP.pdf, id=100, 845.1575pt x 597.23125pt>
+File: flux_noise_350NGP.pdf Graphic file (type pdf)
+
+<use flux_noise_350NGP.pdf>
+Package pdftex.def Info: flux_noise_350NGP.pdf used on input line 429.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_500NGP.pdf, id=101, 845.1575pt x 597.23125pt>
+File: flux_noise_500NGP.pdf Graphic file (type pdf)
+
+<use flux_noise_500NGP.pdf>
+Package pdftex.def Info: flux_noise_500NGP.pdf used on input line 430.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_250SGP.pdf, id=102, 845.1575pt x 597.23125pt>
+File: flux_noise_250SGP.pdf Graphic file (type pdf)
+
+<use flux_noise_250SGP.pdf>
+Package pdftex.def Info: flux_noise_250SGP.pdf used on input line 431.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_350SGP.pdf, id=103, 845.1575pt x 597.23125pt>
+File: flux_noise_350SGP.pdf Graphic file (type pdf)
+
+<use flux_noise_350SGP.pdf>
+Package pdftex.def Info: flux_noise_350SGP.pdf used on input line 432.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_500SGP.pdf, id=104, 845.1575pt x 597.23125pt>
+File: flux_noise_500SGP.pdf Graphic file (type pdf)
+
+<use flux_noise_500SGP.pdf>
+Package pdftex.def Info: flux_noise_500SGP.pdf used on input line 433.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_area_250.pdf, id=105, 845.1575pt x 597.23125pt>
+File: flux_area_250.pdf Graphic file (type pdf)
+ <use flux_area_250.pdf>
+Package pdftex.def Info: flux_area_250.pdf used on input line 445.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+<flux_area_350.pdf, id=106, 845.1575pt x 597.23125pt>
+File: flux_area_350.pdf Graphic file (type pdf)
+ <use flux_area_350.pdf>
+Package pdftex.def Info: flux_area_350.pdf used on input line 446.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+<flux_area_500.pdf, id=107, 845.1575pt x 597.23125pt>
+File: flux_area_500.pdf Graphic file (type pdf)
+ <use flux_area_500.pdf>
+Package pdftex.def Info: flux_area_500.pdf used on input line 447.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 445--454
+[][]
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 445--454
+[]
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 445--454
+[] 
+ []
+
+<cum_sn_100.pdf, id=108, 845.1575pt x 597.23125pt>
+File: cum_sn_100.pdf Graphic file (type pdf)
+ <use cum_sn_100.pdf>
+Package pdftex.def Info: cum_sn_100.pdf used on input line 562.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+<cum_sn_160.pdf, id=110, 845.1575pt x 597.23125pt>
+File: cum_sn_160.pdf Graphic file (type pdf)
+ <use cum_sn_160.pdf>
+Package pdftex.def Info: cum_sn_160.pdf used on input line 563.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+<cum_sn_250.pdf, id=112, 845.1575pt x 597.23125pt>
+File: cum_sn_250.pdf Graphic file (type pdf)
+ <use cum_sn_250.pdf>
+Package pdftex.def Info: cum_sn_250.pdf used on input line 564.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+<cum_sn_350.pdf, id=114, 845.1575pt x 597.23125pt>
+File: cum_sn_350.pdf Graphic file (type pdf)
+ <use cum_sn_350.pdf>
+Package pdftex.def Info: cum_sn_350.pdf used on input line 565.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+<cum_sn_500.pdf, id=116, 845.1575pt x 597.23125pt>
+File: cum_sn_500.pdf Graphic file (type pdf)
+ <use cum_sn_500.pdf>
+Package pdftex.def Info: cum_sn_500.pdf used on input line 566.
+(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--568
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--568
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--568
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--568
+[]
+ []
+
+
+LaTeX Warning: Float too large for page by 14.38231pt on input line 569.
+
+[4] <ngp_dra.png, id=122, 843.15pt x 592.1322pt>
+File: ngp_dra.png Graphic file (type png)
+ <use ngp_dra.png>
+Package pdftex.def Info: ngp_dra.png used on input line 611.
+(pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
+
+<ngp_ddec.png, id=123, 843.15pt x 592.1322pt>
+File: ngp_ddec.png Graphic file (type png)
+ <use ngp_ddec.png>
+Package pdftex.def Info: ngp_ddec.png used on input line 612.
+(pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
+
+<sgp_dra.png, id=124, 843.15pt x 592.1322pt>
+File: sgp_dra.png Graphic file (type png)
+ <use sgp_dra.png>
+Package pdftex.def Info: sgp_dra.png used on input line 613.
+(pdftex.def)             Requested size: 505.8939pt x 78.71915pt.
+
+<sgp_ddec.png, id=126, 843.15pt x 592.1322pt>
+File: sgp_ddec.png Graphic file (type png)
+ <use sgp_ddec.png>
+Package pdftex.def Info: sgp_ddec.png used on input line 614.
+(pdftex.def)             Requested size: 505.8939pt x 116.27708pt.
+
+Overfull \hbox (1.8939pt too wide) in paragraph at lines 611--619
+ [] 
+ []
+
+
+Overfull \hbox (1.8939pt too wide) in paragraph at lines 611--619
+ [] 
+ []
+
+[5 <./flux_noise_250NGP.pdf, page is rotated 90 degrees> <./flux_noise_350NGP.p
+df, page is rotated 90 degrees> <./flux_noise_500NGP.pdf, page is rotated 90 de
+grees> <./flux_noise_250SGP.pdf, page is rotated 90 degrees> <./flux_noise_350S
+GP.pdf, page is rotated 90 degrees> <./flux_noise_500SGP.pdf, page is rotated 9
+0 degrees>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./cum_sn_100.pdf, page is rotated 90 degrees> <./cum_sn_160.pdf, page is r
+otated 90 degrees> <./cum_sn_250.pdf, page is rotated 90 degrees> <./cum_sn_350
+.pdf, page is rotated 90 degrees> <./cum_sn_500.pdf, page is rotated 90 degrees
+> <./flux_area_250.pdf, page is rotated 90 degrees> <./flux_area_350.pdf, page 
+is rotated 90 degrees> <./flux_area_500.pdf, page is rotated 90 degrees>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./sgp_dra.png (PNG copy)> <./sgp_ddec.png (PNG copy)> <./ngp_dra.png (PNG 
+copy)> <./ngp_ddec.png (PNG copy)>] (./dr2_paper.aux) ) 
+Here is how much of TeX's memory you used:
+ 14743 strings out of 493013
+ 281501 string characters out of 6133344
+ 332665 words of memory out of 5000000
+ 17943 multiletter control sequences out of 15000+600000
+ 37082 words of font info for 94 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,17n,54p,641b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016
+/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmtt9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/symbols/msam10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courie
+r/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on dr2_paper.pdf (7 pages, 1515509 bytes).
+PDF statistics:
+ 278 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
+
