@@ -309,7 +309,7 @@ FWHM of the psf, 11.4 arc seconds for 100\mic and 13.7 arc seconds for
 corrections presented in V16, and available at {\tt
   http://www.h-atlas.org/}.  We make a further correction to allow for
 the bias caused by the expected random positional errors between the
-SPIRE 250\mic and PACS maps.
+SPIRE 250\mic and PACS maps, as detailed in V16.
 For sources in the NGP where we have identified a reliable optical
 counterpart using the maximum likelihood approach presented in
 F17, we use the optical position to place the
@@ -388,8 +388,8 @@ match the Herschel imaging.
 
 \subsection{Flux distributions} 
 
-The observed number of sources as  function of flux in the three
-spire bands is shown in figure~\ref{fig_cum_flux}. The fluxes are
+The observed number of sources as  function of flux in the PACS and
+SPIRES bands is shown in figure~\ref{fig_cum_flux}. The fluxes are
 subject to boosting as described in V16, and need a statistical
 de-boosting correction before  comparing to model predictions. 
 
@@ -412,6 +412,15 @@ a correction is required for sources which follow a different SED. The
 required corrections are described in the PACS Colour-Correction
 document\footnote{\tt{http://herschel.esac.esa.int/twiki/pub/Public/
   PacsCalibrationWeb/cc\_report\_v1.pdf}}).
+
+We have made statistically reliable identifications to optical
+galaxies from the SDSS and UKIDSS-LAS catalogues, but we have not
+attempted to produce matched aperture photometry. For the optical
+photometry from SDSS we use their {\tt ModelMag} measurements; for the
+NIR photometry from LAS, we use the petrosian magnitude
+measurements. Both should approximated total magnitudes for the
+sources, but caution is advised if the photometry is used to constrain
+the galaxy SEDs without further corrections.
 
 \section{Flux uncertainties} 
 
@@ -608,7 +617,7 @@ pointing error of the Herschel satellite.
   function of position on the sky for the NGP field and the SGP
   fields. 
 }
-\end{figu
+\end{figure*} 
 
 
 
