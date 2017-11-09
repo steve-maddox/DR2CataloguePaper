@@ -49,7 +49,7 @@
 \usepackage{amsmath}
 \usepackage{multicol}
 %\usepackage{makecell}
-\usepackage{slashbox}
+%\usepackage{slashbox}
 \usepackage{color}
 \usepackage{tikz}
 
@@ -89,25 +89,25 @@
 
 \date{}
 
-\pagerange{\pageref{firstpage}--\pageref{lastpage}} \pubyear{2016}
+\pagerange{\pageref{firstpage}--\pageref{lastpage}}\pubyear{2016}
 
 \maketitle
 
 \label{firstpage}
 
 \begin{abstract}
-We present the second public release of data from the Herschel-ATLAS
-survey. The catalogued area in this release covers a total of 455 square
-degrees: 170 square degrees in the north galactic cap, and 285 square
-degrees in the southern galactic cap. The catalogues contain 114368
-and 183784 sources detected at more than 4 sigma significance in any
-of the 250\mic, 350\mic or 500\mic bands band. The rms positional
-accuracy for the faintest sources is about 2.4 arc seconds in ra and
-dec. Photometry is presented for 5 Herschel bands: 100, 160, 250, 350
-and 500\mic. We show the distribution of sources as a function of
-signal-to-noise, and as a function of flux. Colour-colour plots of the
-data are presented and compared to simple models.
-
+  We present the second public release of source catalogues from the
+  Herschel-ATLAS survey. The catalogued area in this release covers a
+  total of 480 square degrees: 177 square degrees in the north
+  galactic cap, and 303 square degrees in the southern galactic
+  cap. The catalogues contain 114368 and 183784 sources detected at
+  more than 4 sigma significance in any of the 250\mic, 350\mic or
+  500\mic bands band. The rms positional accuracy for the faintest
+  sources is about 2.4 arc seconds in ra and dec. Photometry is
+  presented for 5 Herschel bands: 100, 160, 250, 350 and 500\mic. We
+  show the distribution of sources as a function of signal-to-noise,
+  and as a function of flux.
+  
 
 
 \end{abstract}
@@ -122,24 +122,30 @@ The Herschel mission has revolutionized the study of the FIR sky. The
 Herschel-ATLAS was the largest project awarded time in the open
 allocations, and mapped 659 square degrees of sky.  The footprint of
 the survey is spread between 5 disjoint areas: 3 equatorial fields
-each covering ~50sq degrees; a roughly square region covering 180 sq
-degrees centred on the North Galactic Pole, see Fig~\ref{skymapn}; and
-an elongated region covering 317 sq degrees in the south galactic cap
-see Fig~\ref{skymaps}.  The maps and source catalogues for the
-equatorial fields were described by Valiente et al 2016 (hereafter V16).  The
+each covering ~50 square degrees, giving a total of 161 square
+degrees; a roughly square region covering 180 square degrees centred
+on the North Galactic Pole, see Fig~\ref{skymapn}; and an elongated
+region covering 318 square degrees in the south galactic cap see
+Fig~\ref{skymaps}.  The maps and source catalogues for the equatorial
+fields were described by Valiente et al 2016 (hereafter V16).  The
 creation of maps for the NGP and SGP areas is detailed in the
 companion paper (Smith et al 2017; hereafter S17). In this paper we
 describe source detection and catalogues for the NGP and SGP areas. We
 detect sources and measure their fluxes in areas which are covered by
 multiple scans by the Herschel detectors, and so the catalogued areas
-cover 170.1 square degrees in the NGP, and 285 square degrees in the
+cover 177 square degrees in the NGP, and 303 square degrees in the
 SGP, slightly smaller than the full area covered by the maps. For the
 NGP area, identifications to optical sources are presented in a second
-companion paper (Furlanetto et al 2017; hereafter F17). The maps have
-pixel sizes 3, 4, 6, 8 and 12 arc seconds for 100, 160, 250, 350 and
-500 microns respectively. The PACS maps (100 and 160\mic) have units
-of Jy per pixel. The SPIRE maps have units of Jy per beam and the beam
-areas are 469, 831 and 1804 square arc seconds.
+companion paper (Furlanetto et al 2017; hereafter F17).
+
+In this paper we describe the process followed to create the
+source catalogues. In section 2 we describe the source detection
+process, and our flux measurements; in Section 3 we present our
+estimates of the flux uncertainties; in Section 4 we show the
+positional uncertainties; Section 5 discusses the completeness and
+purity of the source catalogue; Section 6 describes the released
+catalogue files. 
+
 
 \begin{figure} %1 
 \includegraphics[scale=0.7]{ngpcoverage.pdf}
@@ -168,7 +174,15 @@ areas are 469, 831 and 1804 square arc seconds.
 
 \section{ Source detection and catalogues } 
 
-\subsection{Background subtraction} 
+\subsection{Maps and Background subtraction} 
+
+A detailed description of the processing to produce maps from the
+Herschel raw data is presented in S17. The resulting maps maps have
+pixel sizes 3, 4, 6, 8 and 12 arc seconds for 100, 160, 250, 350 and
+500 microns respectively. The PACS maps (100 and 160\mic) have units
+of Jy per pixel. The SPIRE maps have units of Jy per beam and the beam
+areas are 469, 831 and 1804 square arc seconds.
+
 
 Before attempting to detect sources in the maps, we first subtract a
 smoothly varying 'sky' level to remove the flux contributed by
@@ -309,7 +323,7 @@ FWHM of the psf, 11.4 arc seconds for 100\mic and 13.7 arc seconds for
 corrections presented in V16, and available at {\tt
   http://www.h-atlas.org/}.  We make a further correction to allow for
 the bias caused by the expected random positional errors between the
-SPIRE 250\mic and PACS maps, as detailed in V16.
+SPIRE 250\mic and PACS maps.
 For sources in the NGP where we have identified a reliable optical
 counterpart using the maximum likelihood approach presented in
 F17, we use the optical position to place the
@@ -382,9 +396,9 @@ the better flux estimate, and be chose the 'best' flux estimate to be
 the aperture flux only if it is sginificantly higher than the point
 source estimate. 
 
-We have visually checked the apertures for the extended sources, and
-in some cases (how many?) we have adjusted the apertures to better
-match the Herschel imaging. 
+We have visually checked the apertures for the largest and brightest
+sources, and in some cases (how many?) we have adjusted the apertures
+to better match the Herschel imaging. 
 
 \subsection{Flux distributions} 
 
@@ -465,7 +479,7 @@ sources to the maps and measuring their fluxes in the same way as for
 the real data. We found that the confusion noise varies as a function
 of source flux, and we use a simple formula to approximate this:
 \begin{equation} 
-\sigma_{con250}^2 = \min(0.0049,f_{250}/5.6).^2 + 0.00253^2
+\sigma_{con250}^2 = \min(0.0049,f_{250}/5.6)^2 + 0.00253^2
 \end{equation}
 
 For the 350\mic and 500\mic band the confusion noise from the simulated
