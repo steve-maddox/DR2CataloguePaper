@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  9 NOV 2017 12:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  13 NOV 2017 16:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -785,274 +785,211 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-<cum_counts_100.pdf, id=36, 845.1575pt x 597.23125pt>
-File: cum_counts_100.pdf Graphic file (type pdf)
- <use cum_counts_100.pdf>
-Package pdftex.def Info: cum_counts_100.pdf used on input line 256.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
-
-<cum_counts_160.pdf, id=38, 845.1575pt x 597.23125pt>
-File: cum_counts_160.pdf Graphic file (type pdf)
- <use cum_counts_160.pdf>
-Package pdftex.def Info: cum_counts_160.pdf used on input line 257.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
-
-<cum_counts_250.pdf, id=40, 845.1575pt x 597.23125pt>
-File: cum_counts_250.pdf Graphic file (type pdf)
- <use cum_counts_250.pdf>
-Package pdftex.def Info: cum_counts_250.pdf used on input line 258.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
-
-<cum_counts_350.pdf, id=42, 845.1575pt x 597.23125pt>
-File: cum_counts_350.pdf Graphic file (type pdf)
- <use cum_counts_350.pdf>
-Package pdftex.def Info: cum_counts_350.pdf used on input line 259.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
-
-<cum_counts_500.pdf, id=44, 845.1575pt x 597.23125pt>
-File: cum_counts_500.pdf Graphic file (type pdf)
- <use cum_counts_500.pdf>
-Package pdftex.def Info: cum_counts_500.pdf used on input line 260.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--264
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--264
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--264
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--264
-[]
- []
-
-
-LaTeX Warning: Float too large for page by 23.95468pt on input line 265.
-
-[2 <./sgpcoverage.pdf>] [3 <./cum_counts_100.pdf, page is rotated 90 degrees> <
-./cum_counts_160.pdf, page is rotated 90 degrees> <./cum_counts_250.pdf, page i
-s rotated 90 degrees> <./cum_counts_350.pdf, page is rotated 90 degrees> <./cum
-_counts_500.pdf, page is rotated 90 degrees>]
-Underfull \hbox (badness 10000) in paragraph at lines 428--428
-$[]$ []\OT1/pcr/m/n/8 http://herschel.esac.esa.int/twiki/pub/Public/
- []
-
-<flux_noise_250NGP.pdf, id=99, 845.1575pt x 597.23125pt>
-File: flux_noise_250NGP.pdf Graphic file (type pdf)
-
-<use flux_noise_250NGP.pdf>
-Package pdftex.def Info: flux_noise_250NGP.pdf used on input line 442.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_350NGP.pdf, id=100, 845.1575pt x 597.23125pt>
-File: flux_noise_350NGP.pdf Graphic file (type pdf)
-
-<use flux_noise_350NGP.pdf>
-Package pdftex.def Info: flux_noise_350NGP.pdf used on input line 443.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_500NGP.pdf, id=101, 845.1575pt x 597.23125pt>
-File: flux_noise_500NGP.pdf Graphic file (type pdf)
-
-<use flux_noise_500NGP.pdf>
-Package pdftex.def Info: flux_noise_500NGP.pdf used on input line 444.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_250SGP.pdf, id=102, 845.1575pt x 597.23125pt>
-File: flux_noise_250SGP.pdf Graphic file (type pdf)
-
-<use flux_noise_250SGP.pdf>
-Package pdftex.def Info: flux_noise_250SGP.pdf used on input line 445.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_350SGP.pdf, id=103, 845.1575pt x 597.23125pt>
-File: flux_noise_350SGP.pdf Graphic file (type pdf)
-
-<use flux_noise_350SGP.pdf>
-Package pdftex.def Info: flux_noise_350SGP.pdf used on input line 446.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_500SGP.pdf, id=104, 845.1575pt x 597.23125pt>
-File: flux_noise_500SGP.pdf Graphic file (type pdf)
-
-<use flux_noise_500SGP.pdf>
-Package pdftex.def Info: flux_noise_500SGP.pdf used on input line 447.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_area_250.pdf, id=105, 845.1575pt x 597.23125pt>
-File: flux_area_250.pdf Graphic file (type pdf)
- <use flux_area_250.pdf>
-Package pdftex.def Info: flux_area_250.pdf used on input line 459.
+<cum_counts_NGP.pdf, id=36, 845.1575pt x 597.23125pt>
+File: cum_counts_NGP.pdf Graphic file (type pdf)
+ <use cum_counts_NGP.pdf>
+Package pdftex.def Info: cum_counts_NGP.pdf used on input line 257.
 (pdftex.def)             Requested size: 252.0pt x 178.0772pt.
 
-<flux_area_350.pdf, id=106, 845.1575pt x 597.23125pt>
-File: flux_area_350.pdf Graphic file (type pdf)
- <use flux_area_350.pdf>
-Package pdftex.def Info: flux_area_350.pdf used on input line 460.
+<cum_counts_SGP.pdf, id=37, 845.1575pt x 597.23125pt>
+File: cum_counts_SGP.pdf Graphic file (type pdf)
+ <use cum_counts_SGP.pdf>
+Package pdftex.def Info: cum_counts_SGP.pdf used on input line 259.
 (pdftex.def)             Requested size: 252.0pt x 178.0772pt.
 
-<flux_area_500.pdf, id=107, 845.1575pt x 597.23125pt>
-File: flux_area_500.pdf Graphic file (type pdf)
- <use flux_area_500.pdf>
-Package pdftex.def Info: flux_area_500.pdf used on input line 461.
-(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 459--468
-[][]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 257--265
+[][] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 459--468
-[]
- []
-
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 459--468
+Overfull \hbox (12.0pt too wide) in paragraph at lines 257--265
 [] 
  []
 
-[4] <cum_sn_100.pdf, id=112, 845.1575pt x 597.23125pt>
-File: cum_sn_100.pdf Graphic file (type pdf)
- <use cum_sn_100.pdf>
-Package pdftex.def Info: cum_sn_100.pdf used on input line 576.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+[2 <./sgpcoverage.pdf>]
+Underfull \vbox (badness 7981) has occurred while \output is active []
 
-<cum_sn_160.pdf, id=114, 845.1575pt x 597.23125pt>
-File: cum_sn_160.pdf Graphic file (type pdf)
- <use cum_sn_160.pdf>
-Package pdftex.def Info: cum_sn_160.pdf used on input line 577.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+ [3 <./cum_counts_NGP.pdf> <./cum_counts_SGP.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
+$[]$ []\OT1/pcr/m/n/8 http://herschel.esac.esa.int/twiki/pub/Public/
+ []
 
-<cum_sn_250.pdf, id=116, 845.1575pt x 597.23125pt>
-File: cum_sn_250.pdf Graphic file (type pdf)
- <use cum_sn_250.pdf>
-Package pdftex.def Info: cum_sn_250.pdf used on input line 578.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+<flux_noise_250NGP.pdf, id=72, 845.1575pt x 597.23125pt>
+File: flux_noise_250NGP.pdf Graphic file (type pdf)
 
-<cum_sn_350.pdf, id=118, 845.1575pt x 597.23125pt>
-File: cum_sn_350.pdf Graphic file (type pdf)
- <use cum_sn_350.pdf>
-Package pdftex.def Info: cum_sn_350.pdf used on input line 579.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+<use flux_noise_250NGP.pdf>
+Package pdftex.def Info: flux_noise_250NGP.pdf used on input line 454.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
 
-<cum_sn_500.pdf, id=120, 845.1575pt x 597.23125pt>
-File: cum_sn_500.pdf Graphic file (type pdf)
- <use cum_sn_500.pdf>
-Package pdftex.def Info: cum_sn_500.pdf used on input line 580.
-(pdftex.def)             Requested size: 211.67908pt x 131.76535pt.
+<flux_noise_350NGP.pdf, id=73, 845.1575pt x 597.23125pt>
+File: flux_noise_350NGP.pdf Graphic file (type pdf)
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--582
+<use flux_noise_350NGP.pdf>
+Package pdftex.def Info: flux_noise_350NGP.pdf used on input line 455.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_500NGP.pdf, id=74, 845.1575pt x 597.23125pt>
+File: flux_noise_500NGP.pdf Graphic file (type pdf)
+
+<use flux_noise_500NGP.pdf>
+Package pdftex.def Info: flux_noise_500NGP.pdf used on input line 456.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_250SGP.pdf, id=75, 845.1575pt x 597.23125pt>
+File: flux_noise_250SGP.pdf Graphic file (type pdf)
+
+<use flux_noise_250SGP.pdf>
+Package pdftex.def Info: flux_noise_250SGP.pdf used on input line 457.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_350SGP.pdf, id=76, 845.1575pt x 597.23125pt>
+File: flux_noise_350SGP.pdf Graphic file (type pdf)
+
+<use flux_noise_350SGP.pdf>
+Package pdftex.def Info: flux_noise_350SGP.pdf used on input line 458.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_500SGP.pdf, id=77, 845.1575pt x 597.23125pt>
+File: flux_noise_500SGP.pdf Graphic file (type pdf)
+
+<use flux_noise_500SGP.pdf>
+Package pdftex.def Info: flux_noise_500SGP.pdf used on input line 459.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_area_250.pdf, id=78, 845.1575pt x 597.23125pt>
+File: flux_area_250.pdf Graphic file (type pdf)
+ <use flux_area_250.pdf>
+Package pdftex.def Info: flux_area_250.pdf used on input line 471.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+<flux_area_350.pdf, id=79, 845.1575pt x 597.23125pt>
+File: flux_area_350.pdf Graphic file (type pdf)
+ <use flux_area_350.pdf>
+Package pdftex.def Info: flux_area_350.pdf used on input line 472.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+<flux_area_500.pdf, id=80, 845.1575pt x 597.23125pt>
+File: flux_area_500.pdf Graphic file (type pdf)
+ <use flux_area_500.pdf>
+Package pdftex.def Info: flux_area_500.pdf used on input line 473.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 471--480
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--582
+Overfull \hbox (12.0pt too wide) in paragraph at lines 471--480
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--582
-[]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 471--480
+[] 
+ []
+
+<cum_sn_NGP.pdf, id=81, 845.1575pt x 597.23125pt>
+File: cum_sn_NGP.pdf Graphic file (type pdf)
+ <use cum_sn_NGP.pdf>
+Package pdftex.def Info: cum_sn_NGP.pdf used on input line 588.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+<cum_sn_SGP.pdf, id=82, 845.1575pt x 597.23125pt>
+File: cum_sn_SGP.pdf Graphic file (type pdf)
+ <use cum_sn_SGP.pdf>
+Package pdftex.def Info: cum_sn_SGP.pdf used on input line 589.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 588--595
+[][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--582
-[]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 588--595
+[] 
  []
 
-
-LaTeX Warning: Float too large for page by 14.38231pt on input line 583.
-
-<ngp_dra.png, id=122, 843.15pt x 592.1322pt>
+[4] <ngp_dra.png, id=87, 843.15pt x 592.1322pt>
 File: ngp_dra.png Graphic file (type png)
  <use ngp_dra.png>
-Package pdftex.def Info: ngp_dra.png used on input line 625.
+Package pdftex.def Info: ngp_dra.png used on input line 647.
 (pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
 
-<ngp_ddec.png, id=123, 843.15pt x 592.1322pt>
+<ngp_ddec.png, id=88, 843.15pt x 592.1322pt>
 File: ngp_ddec.png Graphic file (type png)
  <use ngp_ddec.png>
-Package pdftex.def Info: ngp_ddec.png used on input line 626.
+Package pdftex.def Info: ngp_ddec.png used on input line 648.
 (pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
 
-<sgp_dra.png, id=124, 843.15pt x 592.1322pt>
+<sgp_dra.png, id=89, 843.15pt x 592.1322pt>
 File: sgp_dra.png Graphic file (type png)
  <use sgp_dra.png>
-Package pdftex.def Info: sgp_dra.png used on input line 627.
+Package pdftex.def Info: sgp_dra.png used on input line 649.
 (pdftex.def)             Requested size: 505.8939pt x 78.71915pt.
 
-<sgp_ddec.png, id=126, 843.15pt x 592.1322pt>
+<sgp_ddec.png, id=91, 843.15pt x 592.1322pt>
 File: sgp_ddec.png Graphic file (type png)
  <use sgp_ddec.png>
-Package pdftex.def Info: sgp_ddec.png used on input line 628.
+Package pdftex.def Info: sgp_ddec.png used on input line 650.
 (pdftex.def)             Requested size: 505.8939pt x 116.27708pt.
 
-Overfull \hbox (1.8939pt too wide) in paragraph at lines 625--633
+Overfull \hbox (1.8939pt too wide) in paragraph at lines 647--655
  [] 
  []
 
 
-Overfull \hbox (1.8939pt too wide) in paragraph at lines 625--633
+Overfull \hbox (1.8939pt too wide) in paragraph at lines 647--655
  [] 
  []
 
+[5 <./flux_noise_250NGP.pdf, page is rotated 90 degrees> <./flux_noise_350NGP.p
+df, page is rotated 90 degrees> <./flux_noise_500NGP.pdf, page is rotated 90 de
+grees> <./flux_noise_250SGP.pdf, page is rotated 90 degrees> <./flux_noise_350S
+GP.pdf, page is rotated 90 degrees> <./flux_noise_500SGP.pdf, page is rotated 9
+0 degrees>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5 <./flux_noise_250NGP.pdf, page is rotated 90 degrees> <./flux_noise_350NGP.
-pdf, page is rotated 90 degrees> <./flux_noise_500NGP.pdf, page is rotated 90 d
-egrees> <./flux_noise_250SGP.pdf, page is rotated 90 degrees> <./flux_noise_350
-SGP.pdf, page is rotated 90 degrees> <./flux_noise_500SGP.pdf, page is rotated 
-90 degrees>]
+ [6 <./flux_area_250.pdf, page is rotated 90 degrees> <./flux_area_350.pdf, pag
+e is rotated 90 degrees> <./flux_area_500.pdf, page is rotated 90 degrees> <./c
+um_sn_NGP.pdf> <./cum_sn_SGP.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./cum_sn_100.pdf, page is rotated 90 degrees> <./cum_sn_160.pdf, page is r
-otated 90 degrees> <./cum_sn_250.pdf, page is rotated 90 degrees> <./cum_sn_350
-.pdf, page is rotated 90 degrees> <./cum_sn_500.pdf, page is rotated 90 degrees
-> <./flux_area_250.pdf, page is rotated 90 degrees> <./flux_area_350.pdf, page 
-is rotated 90 degrees> <./flux_area_500.pdf, page is rotated 90 degrees>] [7
-
- <./sgp_dra.png (PNG copy)> <./sgp_ddec.png (PNG copy)> <./ngp_dra.png (PNG cop
-y)> <./ngp_ddec.png (PNG copy)>] (./dr2_paper.aux) ) 
+ [7 <./sgp_dra.png (PNG copy)> <./sgp_ddec.png (PNG copy)> <./ngp_dra.png (PNG 
+copy)> <./ngp_ddec.png (PNG copy)>] (./dr2_paper.aux) ) 
 Here is how much of TeX's memory you used:
- 14724 strings out of 493013
- 281280 string characters out of 6133344
- 331138 words of memory out of 5000000
- 17927 multiletter control sequences out of 15000+600000
+ 14694 strings out of 493013
+ 280686 string characters out of 6133344
+ 332138 words of memory out of 5000000
+ 17903 multiletter control sequences out of 15000+600000
  37082 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,17n,54p,641b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/te
-xmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/
-type1/public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2016/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmtt9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/s
-ymbols/msam10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/u
-crr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on dr2_paper.pdf (7 pages, 1515942 bytes).
+ 55i,17n,54p,641b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016
+/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmtt9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/symbols/msam10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courie
+r/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on dr2_paper.pdf (7 pages, 1675518 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
+ 213 PDF objects out of 1000 (max. 8388607)
+ 156 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 210 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
