@@ -138,13 +138,13 @@ SGP, slightly smaller than the full area covered by the maps. For the
 NGP area, identifications to optical sources are presented in a second
 companion paper (Furlanetto et al 2017; hereafter F17).
 
-In this paper we describe the process followed to create the
-source catalogues. In section 2 we describe the source detection
-process, and our flux measurements; in Section 3 we present our
-estimates of the flux uncertainties; in Section 4 we show the
-positional uncertainties; Section 5 discusses the completeness and
-purity of the source catalogue; Section 6 describes the released
-catalogue files. 
+In this paper we describe the process followed to create the source
+catalogues. In section 2 we describe the source detection process, and
+our flux measurements; in Section 3 we present our estimates of the
+flux uncertainties; in Section 4 we show the positional uncertainties;
+Section 5 discusses the completeness and purity of the source
+catalogue. The catalogue files of the release are described in the
+Appendix.
 
 
 \begin{figure} %1 
@@ -673,7 +673,7 @@ values, simply inverting the map and counting the number of negative
 that may be present in the real data. Most of these 'noise' sources will
 be due to clumps of unresolved faint sources, and not instrumental
 noise. With the 4$-\sigma$ cut, we expect the number of false
-detections to be $\lesssim 0.5\%$. 
+detections to be $\lesssim 0.5$\%. 
 
 
 %\section{Colour Distribution} 
@@ -688,7 +688,10 @@ detections to be $\lesssim 0.5\%$.
 %  4 bins of 250\mic flux:  30~mJy$<S_{250}<$50~mJy ;
 %  50~mJy$<S_{250}<$100~mJy ;  100~mJy$<S_{250}<$200~mJy ;  200~mJy$<S_{250}$ 
 %flux. } 
+
 %\end{figure*}
+
+
 
 \section*{Acknowledgments}
 
@@ -751,6 +754,14 @@ Finkbeiner, D.~P., \& Davis, M.\ 1998, \apj, 500, 525
 \bibitem[Wang \& Rowan-Robinson(2009)]{iras} Wang, L., \& Rowan-Robinson, M.\ 2009, \mnras, 398, 109 
 
 \end{thebibliography}
+\section{Appendix}
+
+The catalogue files are available from {\tt
+  http://www.h-atlas.org}. The columns and a short description each
+parameter iin the catalogue
+and contain the following columns. 
+
+
 \label{lastpage}
 
 \end{document}
