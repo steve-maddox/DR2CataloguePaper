@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  17 NOV 2017 22:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  17 NOV 2017 22:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1448,70 +1448,70 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.3pt on input line 124.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 160.
+(Font)              scaled to size 9.0pt on input line 159.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Try loading font information for TS1+aer on input line 196.
+LaTeX Font Info:    Try loading font information for TS1+aer on input line 187.
 
-LaTeX Font Info:    No file TS1aer.fd. on input line 196.
+LaTeX Font Info:    No file TS1aer.fd. on input line 187.
 
 
 LaTeX Font Warning: Font shape `TS1/aer/m/n' undefined
 (Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textcopyright' on input line 196.
+(Font)              for symbol `textcopyright' on input line 187.
 
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-<ngpcoverage.pdf, id=88, 290.1166pt x 256.17255pt>
+<ngpcoverage.pdf, id=90, 290.1166pt x 256.17255pt>
 File: ngpcoverage.pdf Graphic file (type pdf)
  <use ngpcoverage.pdf>
-Package pdftex.def Info: ngpcoverage.pdf used on input line 238.
+Package pdftex.def Info: ngpcoverage.pdf used on input line 229.
 (pdftex.def)             Requested size: 261.10251pt x 230.55315pt.
 
-Overfull \hbox (21.10251pt too wide) in paragraph at lines 238--244
+Overfull \hbox (21.10251pt too wide) in paragraph at lines 229--235
 [][]
  []
 
-<sgpcoverage.pdf, id=89, 542.025pt x 167.62625pt>
+<sgpcoverage.pdf, id=91, 542.025pt x 167.62625pt>
 File: sgpcoverage.pdf Graphic file (type pdf)
  <use sgpcoverage.pdf>
-Package pdftex.def Info: sgpcoverage.pdf used on input line 249.
+Package pdftex.def Info: sgpcoverage.pdf used on input line 240.
 (pdftex.def)             Requested size: 542.02367pt x 167.62582pt.
 
-Overfull \hbox (38.02367pt too wide) in paragraph at lines 249--256
+Overfull \hbox (38.02367pt too wide) in paragraph at lines 240--247
  [][] 
  []
 
-LaTeX Font Info:    Try loading font information for T1+aett on input line 285.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 276.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-Underfull \hbox (badness 1112) in paragraph at lines 278--289
+Underfull \hbox (badness 1112) in paragraph at lines 269--280
 []\T1/aer/m/n/9 Before at-tempt-ing to de-tect sources in the maps,
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 278--289
+Underfull \hbox (badness 1072) in paragraph at lines 269--280
 \T1/aer/m/n/9 so-called `cir-rus emis-sion', and also the emis-sion from
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 278--289
+Underfull \hbox (badness 1521) in paragraph at lines 269--280
 \T1/aer/m/n/9 clus-tered ex-tra-galac-tic sources fainter than our de-tec-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 278--289
+Underfull \hbox (badness 2302) in paragraph at lines 269--280
 \T1/aer/m/n/9 tion limit. We used the \T1/aett/m/n/9 neb-u-liser \T1/aer/m/n/9 
 func-tion, a pro-
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 278--289
+Underfull \hbox (badness 1748) in paragraph at lines 269--280
 \T1/aer/m/n/9 gramme pro-duced by the Cam-bridge As-tron-omy Sur-
  []
 
@@ -1520,83 +1520,9 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.343 
-       <./ngpcoverage.pdf>]
-<flux_noise_250NGP.pdf, id=118, 845.1575pt x 597.23125pt>
-File: flux_noise_250NGP.pdf Graphic file (type pdf)
-
-<use flux_noise_250NGP.pdf>
-Package pdftex.def Info: flux_noise_250NGP.pdf used on input line 427.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_350NGP.pdf, id=119, 845.1575pt x 597.23125pt>
-File: flux_noise_350NGP.pdf Graphic file (type pdf)
-
-<use flux_noise_350NGP.pdf>
-Package pdftex.def Info: flux_noise_350NGP.pdf used on input line 428.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_500NGP.pdf, id=120, 845.1575pt x 597.23125pt>
-File: flux_noise_500NGP.pdf Graphic file (type pdf)
-
-<use flux_noise_500NGP.pdf>
-Package pdftex.def Info: flux_noise_500NGP.pdf used on input line 429.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_250SGP.pdf, id=121, 845.1575pt x 597.23125pt>
-File: flux_noise_250SGP.pdf Graphic file (type pdf)
-
-<use flux_noise_250SGP.pdf>
-Package pdftex.def Info: flux_noise_250SGP.pdf used on input line 430.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_350SGP.pdf, id=122, 845.1575pt x 597.23125pt>
-File: flux_noise_350SGP.pdf Graphic file (type pdf)
-
-<use flux_noise_350SGP.pdf>
-Package pdftex.def Info: flux_noise_350SGP.pdf used on input line 431.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_noise_500SGP.pdf, id=123, 845.1575pt x 597.23125pt>
-File: flux_noise_500SGP.pdf Graphic file (type pdf)
-
-<use flux_noise_500SGP.pdf>
-Package pdftex.def Info: flux_noise_500SGP.pdf used on input line 432.
-(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
-
-<flux_area_250.pdf, id=124, 845.1575pt x 597.23125pt>
-File: flux_area_250.pdf Graphic file (type pdf)
- <use flux_area_250.pdf>
-Package pdftex.def Info: flux_area_250.pdf used on input line 449.
-(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
-
-<flux_area_350.pdf, id=125, 845.1575pt x 597.23125pt>
-File: flux_area_350.pdf Graphic file (type pdf)
- <use flux_area_350.pdf>
-Package pdftex.def Info: flux_area_350.pdf used on input line 450.
-(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
-
-<flux_area_500.pdf, id=126, 845.1575pt x 597.23125pt>
-File: flux_area_500.pdf Graphic file (type pdf)
- <use flux_area_500.pdf>
-Package pdftex.def Info: flux_area_500.pdf used on input line 451.
-(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 449--457
-[][]
- []
-
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 449--457
-[]
- []
-
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 449--457
-[]
- []
-
-
+l.320 W
+       e note that the application of {\tt nebuliser} will change <./ngpcoverag
+e.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
@@ -1604,97 +1530,170 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.478 \begin{equation}
-                       <./sgpcoverage.pdf>] [4pdfTeX warning (ext4): destinatio
-n with the same identifier (name{figure.3}) has been already used, duplicate ig
-nored
+l.416 
+       <./sgpcoverage.pdf>]
+<flux_noise_250NGP.pdf, id=142, 845.1575pt x 597.23125pt>
+File: flux_noise_250NGP.pdf Graphic file (type pdf)
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.555 
-       <./flux_noise_250NGP.pdf, page is rotated 90 degrees> <./flux_noise_350N
-GP.pdf, page is rotated 90 degrees> <./flux_noise_500NGP.pdf, page is rotated 9
-0 degrees> <./flux_noise_250SGP.pdf, page is rotated 90 degrees> <./flux_noise_
-350SGP.pdf, page is rotated 90 degrees> <./flux_noise_500SGP.pdf, page is rotat
-ed 90 degrees>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<use flux_noise_250NGP.pdf>
+Package pdftex.def Info: flux_noise_250NGP.pdf used on input line 418.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
 
-LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 580
+<flux_noise_350NGP.pdf, id=143, 845.1575pt x 597.23125pt>
+File: flux_noise_350NGP.pdf Graphic file (type pdf)
+
+<use flux_noise_350NGP.pdf>
+Package pdftex.def Info: flux_noise_350NGP.pdf used on input line 419.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_500NGP.pdf, id=144, 845.1575pt x 597.23125pt>
+File: flux_noise_500NGP.pdf Graphic file (type pdf)
+
+<use flux_noise_500NGP.pdf>
+Package pdftex.def Info: flux_noise_500NGP.pdf used on input line 420.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_250SGP.pdf, id=145, 845.1575pt x 597.23125pt>
+File: flux_noise_250SGP.pdf Graphic file (type pdf)
+
+<use flux_noise_250SGP.pdf>
+Package pdftex.def Info: flux_noise_250SGP.pdf used on input line 421.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_350SGP.pdf, id=146, 845.1575pt x 597.23125pt>
+File: flux_noise_350SGP.pdf Graphic file (type pdf)
+
+<use flux_noise_350SGP.pdf>
+Package pdftex.def Info: flux_noise_350SGP.pdf used on input line 422.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_noise_500SGP.pdf, id=147, 845.1575pt x 597.23125pt>
+File: flux_noise_500SGP.pdf Graphic file (type pdf)
+
+<use flux_noise_500SGP.pdf>
+Package pdftex.def Info: flux_noise_500SGP.pdf used on input line 423.
+(pdftex.def)             Requested size: 151.20154pt x 106.84084pt.
+
+<flux_area_250.pdf, id=148, 845.1575pt x 597.23125pt>
+File: flux_area_250.pdf Graphic file (type pdf)
+ <use flux_area_250.pdf>
+Package pdftex.def Info: flux_area_250.pdf used on input line 440.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+<flux_area_350.pdf, id=149, 845.1575pt x 597.23125pt>
+File: flux_area_350.pdf Graphic file (type pdf)
+ <use flux_area_350.pdf>
+Package pdftex.def Info: flux_area_350.pdf used on input line 441.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+<flux_area_500.pdf, id=150, 845.1575pt x 597.23125pt>
+File: flux_area_500.pdf Graphic file (type pdf)
+ <use flux_area_500.pdf>
+Package pdftex.def Info: flux_area_500.pdf used on input line 442.
+(pdftex.def)             Requested size: 252.0pt x 178.0772pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 440--448
+[][]
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 440--448
+[]
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 440--448
+[]
+ []
+
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 571
 .
-
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 9.0pt on input line 580.
+(Font)              scaled to size 9.0pt on input line 571.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.3pt on input line 580.
+(Font)              scaled to size 7.3pt on input line 571.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 5.5pt on input line 580.
- [5pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
- has been already used, duplicate ignored
+(Font)              scaled to size 5.5pt on input line 571.
+ [4] [5pdfTeX warning (ext4): destination with the same identifier (name{figure
+.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.622 
-       <./flux_area_250.pdf, page is rotated 90 degrees> <./flux_area_350.pdf, 
-page is rotated 90 degrees> <./flux_area_500.pdf, page is rotated 90 degrees>]
-LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 8.0pt on input line 728.
-LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 6.2pt on input line 728.
+l.673 \end{equation}
+                     <./flux_noise_250NGP.pdf, page is rotated 90 degrees> <./f
+lux_noise_350NGP.pdf, page is rotated 90 degrees> <./flux_noise_500NGP.pdf, pag
+e is rotated 90 degrees> <./flux_noise_250SGP.pdf, page is rotated 90 degrees> 
+<./flux_noise_350SGP.pdf, page is rotated 90 degrees> <./flux_noise_500SGP.pdf,
+ page is rotated 90 degrees>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Overfull \hbox (13.97874pt too wide) in paragraph at lines 728--728
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 8.0pt on input line 719.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 6.2pt on input line 719.
+
+Overfull \hbox (13.97874pt too wide) in paragraph at lines 719--719
 $[]$ [][]\T1/aett/m/n/8 http://herschel.esac.esa.int/Docs/SPIRE/spire_handbook.
 pdf| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 739--739
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
 $[]$ [][]\T1/aett/m/n/8 http://herschel.esac.esa.int/twiki/pub/Public/ Pac-
  []
 
-[6] <cum_sn_NGP.pdf, id=232, 845.1575pt x 597.23125pt>
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.736 
+       <./flux_area_250.pdf, page is rotated 90 degrees> <./flux_area_350.pdf, 
+page is rotated 90 degrees> <./flux_area_500.pdf, page is rotated 90 degrees>]
+<cum_sn_NGP.pdf, id=234, 845.1575pt x 597.23125pt>
 File: cum_sn_NGP.pdf Graphic file (type pdf)
  <use cum_sn_NGP.pdf>
-Package pdftex.def Info: cum_sn_NGP.pdf used on input line 823.
+Package pdftex.def Info: cum_sn_NGP.pdf used on input line 814.
 (pdftex.def)             Requested size: 252.0pt x 178.0772pt.
 
-<cum_sn_SGP.pdf, id=233, 845.1575pt x 597.23125pt>
+<cum_sn_SGP.pdf, id=235, 845.1575pt x 597.23125pt>
 File: cum_sn_SGP.pdf Graphic file (type pdf)
  <use cum_sn_SGP.pdf>
-Package pdftex.def Info: cum_sn_SGP.pdf used on input line 824.
+Package pdftex.def Info: cum_sn_SGP.pdf used on input line 815.
 (pdftex.def)             Requested size: 252.0pt x 178.0772pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 823--831
+Overfull \hbox (12.0pt too wide) in paragraph at lines 814--822
 [][]
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 823--831
+Overfull \hbox (12.0pt too wide) in paragraph at lines 814--822
 []
  []
 
-<cum_countsdeg_NGP.pdf, id=235, 845.1575pt x 597.23125pt>
+<cum_countsdeg_NGP.pdf, id=237, 845.1575pt x 597.23125pt>
 File: cum_countsdeg_NGP.pdf Graphic file (type pdf)
 
 <use cum_countsdeg_NGP.pdf>
-Package pdftex.def Info: cum_countsdeg_NGP.pdf used on input line 843.
+Package pdftex.def Info: cum_countsdeg_NGP.pdf used on input line 834.
 (pdftex.def)             Requested size: 252.0pt x 178.0772pt.
 
-<cum_countsdeg_SGP.pdf, id=236, 845.1575pt x 597.23125pt>
+<cum_countsdeg_SGP.pdf, id=238, 845.1575pt x 597.23125pt>
 File: cum_countsdeg_SGP.pdf Graphic file (type pdf)
 
 <use cum_countsdeg_SGP.pdf>
-Package pdftex.def Info: cum_countsdeg_SGP.pdf used on input line 844.
+Package pdftex.def Info: cum_countsdeg_SGP.pdf used on input line 835.
 (pdftex.def)             Requested size: 252.0pt x 178.0772pt.
 
-Overfull \hbox (13.88794pt too wide) in paragraph at lines 843--850
+Overfull \hbox (13.88794pt too wide) in paragraph at lines 834--841
 [] [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 843--850
+Overfull \hbox (12.0pt too wide) in paragraph at lines 834--841
 []
  []
 
@@ -1703,44 +1702,44 @@ as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.861 
+l.852 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
 5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.861 
+l.852 
        <./cum_sn_NGP.pdf> <./cum_sn_SGP.pdf>]
-<ngp_dra.png, id=254, 843.15pt x 592.1322pt>
+<ngp_dra.png, id=256, 843.15pt x 592.1322pt>
 File: ngp_dra.png Graphic file (type png)
  <use ngp_dra.png>
-Package pdftex.def Info: ngp_dra.png used on input line 906.
+Package pdftex.def Info: ngp_dra.png used on input line 897.
 (pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
 
-<ngp_ddec.png, id=255, 843.15pt x 592.1322pt>
+<ngp_ddec.png, id=257, 843.15pt x 592.1322pt>
 File: ngp_ddec.png Graphic file (type png)
  <use ngp_ddec.png>
-Package pdftex.def Info: ngp_ddec.png used on input line 907.
+Package pdftex.def Info: ngp_ddec.png used on input line 898.
 (pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
 
-<sgp_dra.png, id=256, 843.15pt x 592.1322pt>
+<sgp_dra.png, id=258, 843.15pt x 592.1322pt>
 File: sgp_dra.png Graphic file (type png)
  <use sgp_dra.png>
-Package pdftex.def Info: sgp_dra.png used on input line 908.
+Package pdftex.def Info: sgp_dra.png used on input line 899.
 (pdftex.def)             Requested size: 505.8939pt x 78.71915pt.
 
-<sgp_ddec.png, id=258, 843.15pt x 592.1322pt>
+<sgp_ddec.png, id=260, 843.15pt x 592.1322pt>
 File: sgp_ddec.png Graphic file (type png)
  <use sgp_ddec.png>
-Package pdftex.def Info: sgp_ddec.png used on input line 909.
+Package pdftex.def Info: sgp_ddec.png used on input line 900.
 (pdftex.def)             Requested size: 505.8939pt x 116.27708pt.
 
-Overfull \hbox (1.8939pt too wide) in paragraph at lines 906--914
+Overfull \hbox (1.8939pt too wide) in paragraph at lines 897--905
  [] 
  []
 
 
-Overfull \hbox (1.8939pt too wide) in paragraph at lines 906--914
+Overfull \hbox (1.8939pt too wide) in paragraph at lines 897--905
  [] 
  []
 
@@ -1749,21 +1748,21 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.976 
+l.955 
        <./cum_countsdeg_NGP.pdf> <./cum_countsdeg_SGP.pdf>] [9pdfTeX warning (e
 xt4): destination with the same identifier (name{figure.7}) has been already us
 ed, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1037 \end{document}
+l.1033 \end{document}
                       <./sgp_dra.png (PNG copy)> <./sgp_ddec.png (PNG copy)> <.
 /ngp_dra.png (PNG copy)> <./ngp_ddec.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1037.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1037.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1033.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1033.
  (./dr2_paper_v2.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1037.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1037.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1033.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1033.
 
 Package rerunfilecheck Info: File `dr2_paper_v2.out' has not changed.
 (rerunfilecheck)             Checksum: AE5AA55A93AC61BF7EC8FA16E4AFBEEC;842.
@@ -1775,16 +1774,16 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1037.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1033.
  ) 
 Here is how much of TeX's memory you used:
- 21355 strings out of 493013
- 376560 string characters out of 6133344
- 447315 words of memory out of 5000000
+ 21356 strings out of 493013
+ 376571 string characters out of 6133344
+ 449315 words of memory out of 5000000
  24269 multiletter control sequences out of 15000+600000
  123722 words of font info for 263 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,15n,96p,981b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,15n,96p,981b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -1820,10 +1819,10 @@ sr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr
 /texlive/2016/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on dr2_paper_v2.pdf (9 pages, 1536535 bytes).
+Output written on dr2_paper_v2.pdf (9 pages, 1537390 bytes).
 PDF statistics:
- 416 PDF objects out of 1000 (max. 8388607)
- 343 compressed objects within 4 object streams
- 65 named destinations out of 1000 (max. 500000)
+ 418 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 66 named destinations out of 1000 (max. 500000)
  224 words of extra memory for PDF output out of 10000 (max. 10000000)
 
