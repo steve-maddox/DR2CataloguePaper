@@ -94,7 +94,7 @@
   L. Dunne$^{1,2}$,
   \textsc{}\newauthor M.W.L. Smith$^1$, S. Eales$^1$, S. Dye$^3$,
   C. Furlanetto$^{3,5}$, E. Ibar$^4$, \newauthor
-  J. Millard$^1$, N. Bourne$^2$, H. Gomez$^1$ and R.J. Ivison$^6$\\
+  J. S. Millard$^1$, N. Bourne$^2$, H. Gomez$^1$ and R.J. Ivison$^6$\\
   $^{1}$School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK\\
   $^2$Institute for Astronomy, The University of Edinburgh, Royal
   Observatory, Blackford Hill,
@@ -120,29 +120,24 @@
 
 \begin{abstract}
 
-The {\it Herschel} Astrophysical Terahertz Large Area Survey
-(H-ATLAS) is a survey of 660 deg$^2$ with the PACS and SPIRE cameras
-in five photometric bands - 100, 160, 250, 350 and 500\micron.
-This is the second of three papers describing the data release
-for the large fields at the south and north Galactic poles.
-In this paper
-we describe the catalogues of far-infrared and submillimetre
-sources for the SGP and NGP, which cover 285 deg$^2$ and 170 deg$^2$,
-respectively.
-The catalogues contain
-118,986 sources for the NGP field and 183,784 sources for the
-SGP field detected at
-more than 4$\sigma$ significance in any of the 250\mic, 350\mic or
-500\mic bands band. We present photometry in all five bands for
-each source, including aperture photometry for sources known to
-be extended. 
-The rms positional accuracy for the faintest
-sources is about 2.4 arc seconds in right ascension and
-declination.
-We describe a statistical analysis of the catalogues
-and discuss all the practical issues - completeness, reliability,
-flux boosting, accuracy of positions, accuracy of flux measurements - necessary to
-use the catalogues for astronomical projects.
+  The {\it Herschel} Astrophysical Terahertz Large Area Survey
+  (H-ATLAS) is a survey of 660 deg$^2$ with the PACS and SPIRE cameras
+  in five photometric bands - 100, 160, 250, 350 and 500\micron.  This
+  is the second of three papers describing the data release for the
+  large fields at the south and north Galactic poles.  In this paper
+  we describe the catalogues of far-infrared and submillimetre sources
+  for the NGP and SGP, which cover 170 deg$^2$ and 285 deg$^2$,
+  respectively.  The catalogues contain 118,986 sources for the NGP
+  field and 183,784 sources for the SGP field detected at more than
+  4$\sigma$ significance in any of the 250\mic, 350\mic or 500\mic
+  bands band. We present photometry in all five bands for each source,
+  including aperture photometry for sources known to be extended.  The
+  rms positional accuracy for the faintest sources is about 2.4 arc
+  seconds in right ascension and declination.  We describe a
+  statistical analysis of the catalogues and discuss all the practical
+  issues - completeness, reliability, flux boosting, accuracy of
+  positions, accuracy of flux measurements - necessary to use the
+  catalogues for astronomical projects.
 \end{abstract}
 
 \begin{keywords}
@@ -317,17 +312,16 @@ sources that have diameters larger than $~3$ arc minutes, and even for
 sources above this size,
 the flux loss is $\lesssim 10\%$.
 
-We note that the application of {\tt nebuliser} will change
-the clustering statistics of extragalactic sources.
-Apart from the foreground cirrus emission, {\tt nebuliser} removes
-the background produced by the sources that are too faint to be detected
-individually. This background varies because of the clustering of these
-faint sources.
-A source catalogue made
-without any background subtraction will include more sources where the
-this background is high as a result of clusters of these faint sources, and so
-the clustering of the sources in this catalogue will be stronger than in
-a catalogue produced from an image in which this background emission has been
+We note that the application of {\tt nebuliser} will change the
+clustering statistics of extragalactic sources.  Apart from the
+foreground cirrus emission, {\tt nebuliser} removes the background
+produced by the sources that are too faint to be detected
+individually. This background varies because of the clustering of
+these faint sources.  A source catalogue made without any background
+subtraction will include more sources where this background is high as
+a result of clusters of these faint sources, and so the clustering of
+the sources in this catalogue will be stronger than in a catalogue
+produced from an image in which this background emission has been
 removed. An investigation of the clustering in the H-ATLAS catalogues,
 which includes an analysis of the effect of the subtraction of this
 background, will be presented by Amvrosiadis et al. (in preparation).
@@ -392,27 +386,24 @@ As an initial estimate of the flux density of the
 source in each SPIRE band, MADX takes the flux density in the
 pixel closest to the 250-$\mu$m position.
 
-The high source density on the SPIRE maps means that these flux estimates
-often contain contributions from neighbouring sources.
-To mitigate this effect, MADX uses the following procedure.
-In each band, MADX sorts the sources in order of decreasing flux
-density.
-The
-flux density of the brightest source is then
-more precisely estimated from a bicubic interpolation
-in the filtered map at the
-250-$\mu$m position from the flux densities in the
-$3 \times 3$ pixels around the position. 
-Using this flux estimate, a point source profile is then subtracted
-from the map at this position. The program then moves to the
-next brightest source and follows the same set of steps.
-One consequence of these steps
-is that some sources will now have 250-$\mu$m flux densities
-less than the
-original $2.5\sigma$ cut. 
-Since most sources are brighter at 250 $\mu$m than at the two
-longer wavelengths, the estimates of the flux densities in the
-350\mic and 500\mic bands are sometimes negative.
+The high source density on the SPIRE maps means that these flux
+estimates often contain contributions from neighbouring sources.  To
+mitigate this effect, MADX uses the following procedure.  In each
+band, MADX sorts the sources in order of decreasing flux density.  The
+flux density of the brightest source is then more precisely estimated
+from a bicubic interpolation in the filtered map at the 250-$\mu$m
+position from the flux densities in the $3 \times 3$ pixels around the
+position.  Using this flux estimate, a point source profile is then
+subtracted from the map at this position. The program then moves to
+the next brightest source and follows the same set of steps.  One
+consequence of these steps is that some sources will now have
+250-$\mu$m flux densities less than the original $2.5\sigma$ cut.
+Since most sources are brighter at 250 $\mu$m than at the two longer
+wavelengths, the estimates of the flux densities in the 350\mic and
+500\mic bands are on average significantly lower in signal to noise,
+and can even sometimes be negative. We retain these negative
+measurements so that the statistical distribution of errors is
+maintained in the catalogues. 
 
 \begin{figure*} %3
 \includegraphics[width=0.3\textwidth]{flux_noise_250NGP.pdf}
@@ -489,10 +480,11 @@ total noise (instrumental noise plus confusion noise) for all pixels
 and at the positions of all sources.  The multiple peaks are the
 results of our tiling strategy. The main peak corresponds to the large
 fraction of the survey area that was covered by two individual {\it
-  Herschel} observations (S17). The smaller peaks correspond to the
-smaller fraction of the survey area that was either covered by more
-than two observations or, in the case of one end of the SGP (S17), a
-single observation.
+  Herschel} observations (S17). The smaller peaks at lower noise
+correspond to the smaller fraction of the survey area that was 
+covered by more than two observations. The small peak at higher noise
+in the SGP field corresponds to the area at the western end which was
+covered by a single bservation (S17).
 
 The variation of noise across the maps means that the 4$\sigma$
 flux-density limit varies over the fields, and hence the available
@@ -516,33 +508,29 @@ did for the 350 and 500-$\mu$m bands, we would be likely
 to significantly underestimate the flux density because of
 the higher resolution of the PACS maps.
 
-V16 describe an extensive investigation of the optimum
-aperture size, and we follow them in using an aperture
-with a radius equal to the FWHM, which is
-11.4 arc seconds for 100\mic and 13.7 arc seconds for
-160\mic. Since the `sky' level has already been subtracted
-with {\tt nebuliser}, we made no correction for any
-residual sky level.
-To reduce any pixelisation
-effects, we divided each pixel into 16, assigning
-one sixteenth of the flux density in each sub-pixel, and  
-added up the flux density in each sub-pixel within the
-aperture. 
-Since only $\simeq$10\% of the
-SPIRE sources were clearly detected on the PACS images,
-we centered the aperture on the 250-$\mu$m position.
+V16 describe an extensive investigation of the optimum aperture size,
+and we follow them in using an aperture with a radius equal to the
+FWHM, which is 11.4 arc seconds for 100\mic and 13.7 arc seconds for
+160\mic. Since the `sky' level has already been subtracted with {\tt
+  nebuliser}, we made no correction for any residual sky level.  To
+reduce any pixelisation effects, we divided each pixel into 16, and
+assigned one sixteenth of the flux density in each sub-pixel,
+corresponding to a nearest-pixel interpolation. Then the flux density
+from each sub-pixel within the aperture is added together to produce
+the total aperture flux.  We also tried bilinear, and bicubic
+interpolation methods and found negligible differences in the
+resulting aperture fluxes.  Since only $\simeq$10\% of the SPIRE
+sources were clearly detected on the PACS images, we centered the
+aperture on the 250-$\mu$m position.
 
-We corrected the aperture flux densities to
-total flux densities using the 
-table of the Encircled Energy Fraction (EEF)
-described in V16 and available at {\tt
-http://www.h-atlas.org/}.  
-We made a further correction
-to allow for the effect of the errors on the 250-$\mu$m positions,
-since any error in the position will lead to the small PACS apertures
-missing flux. V16 describe simulations of this effect, and we
-follow them in compensating for this effect by multiplying the
-flux densities by 1.1 and 1.05 at 100 and 160 $\mu$m, respectively.
+We corrected the aperture flux densities to total flux densities using
+the table of the Encircled Energy Fraction (EEF) described in V16 and
+available at {\tt http://www.h-atlas.org/}.  We made a further
+correction to allow for the effect of the errors on the 250-$\mu$m
+positions, since any error in the position will lead to the small PACS
+apertures missing flux. V16 describe simulations of this effect, and
+we follow them in compensating for this effect by multiplying the flux
+densities by 1.1 and 1.05 at 100 and 160 $\mu$m, respectively.
 
 We describe how we estimated the errors on these flux estimates in the
 following section.
@@ -636,7 +624,7 @@ the images we used the extension of equation 3 derived by S17: equation
 4 in S17 for SPIRE and equation 6 in S17 for PACS.
 
 Finally, we only used the aperture flux density if
-it is significantly larger than the point-source estimate, if
+it is significantly larger than the point-source estimate, i.e.
 \begin{equation}
 F_\mathrm{ap}- F_\mathrm{ps}>\sqrt{\sigma_\mathrm{ap}^2-\sigma_\mathrm{ps}^2}
 \ .
@@ -657,7 +645,7 @@ galaxy. We found that the 2MASS parameter $\mathtt{sup\_r\_3sig}$
 with the $\mathtt {isoA\_r}$:
 $\mathtt{isoA\_r} \approx 1.96 \ \mathtt{sup\_r\_3sig}$.  We found all
 2MASS galaxies in the SGP region with $\mathtt{sup\_r\_3sig}>5.1$
-arcsec, equivalent to $\mathtt{isoA\_r}=10\ arcsec$. There are 6249 of
+arcsec, equivalent to $\mathtt{isoA\_r}=10\ $arcsec. There are 6249 of
 these galaxies. We then found all H-ATLAS sources in the SGP within 5
 arcsec of a 2MASS galaxy. There are 3444 of these sources, and a
 simple probability analysis shows that only 23 (0.7\%) of these
@@ -673,7 +661,7 @@ r_\mathrm{ap} = \sqrt{ \mathtt{FWHM}^2 + {(1.96
 \end{equation}
 \smallskip
 \noindent This is the same as equation 2, except for the change
-in the parameter used to estimate the size of the galaxy.
+in the parameter used to estimate the size of the galaxy. 
 
 As for the NGP, we then visually compared the apertures with the
 250-$\mu$m emission from the source, modifying the aperture when
@@ -759,10 +747,10 @@ therefore likely to be a very minor contaminant to the catalogues for
 these fields. There are a few debris disks and AGB stars in the
 catalogues, and an incomplete list is given in Table 1.  However, well
 over 99\% of the sources are extragalactic. The extragalactic sources
-range from nearby galaxies, such as the spectacular galaxy, NGC 7793,
-in the centre of the SGP, one of the brightest galaxies in the nearby
-Sculptor group, to galaxies up to a redshift of $\simeq$6 (Fudamoto et
-al. 2017).
+range from galaxies at redshift $\simeq$6 (Fudamoto et al. 2017) to
+nearby galaxies, such as the spectacular galaxy, NGC 7793, which is in
+the centre of the SGP, and one of the brightest galaxies in the nearby
+Sculptor group.
 
 \subsection{The statistics of the catalogues}
 
@@ -798,10 +786,10 @@ Fomalhaut & 22:57:39.2 $-$29:37:22 \\
 \end{tabular}
 \end{table}
 
-The catalogue for the SGP contains 372596 sources, of which 354022 were
-detected at $>4\sigma$ at 250 $\mu$m, 167904 at $>4\sigma$ at 350 $\mu$m
-and 33336 at $>4\sigma$ at 500 $\mu$m.  5978 sources were detected at
-$>3\sigma$ at 100 $\mu$m and 11009 sources were detected at $>3\sigma$
+The catalogue for the SGP contains 190,318 sources, of which 182,485 were
+detected at $>4\sigma$ at 250 $\mu$m, 69,516 at $>4\sigma$ at 350 $\mu$m
+and 15,527 at $>4\sigma$ at 500 $\mu$m.  5500 sources were detected at
+$>3\sigma$ at 100 $\mu$m and 10,86 sources were detected at $>3\sigma$
 at 160 $\mu$m.
 
 The cumulative number of sources as a function of signal-to-noise in
