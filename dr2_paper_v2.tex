@@ -1,19 +1,14 @@
-% mn2esample.tex
-%
-% v2.1 released 22nd May 2002 (G. Hutton)
-%
-% The mnsample.tex file has been amended to highlight
-% the proper use of LaTeX2e code with the class file
-% and using natbib cross-referencing. These changes
-% do not reflect the original paper by A. V. Raveendran.
-%
-% Previous versions of this sample document were
-% compatible with the LaTeX 2.09 style file mn.sty
-% v1.2 released 5th September 1994 (M. Reed)
-% v1.1 released 18th July 1994
-% v1.0 released 28th January 1994
+%% This is a sample manuscript marked up using the
+%% AASTeX v6.1 LaTeX 2e macros.
+%%
+%% AASTeX is now based on Alexey Vikhlinin's emulateapj.cls 
+%% (Copyright 2000-2015).  See the classfile for details.
 
-\documentclass[useAMS,usenatbib]{mnras}
+% Basic setup. Most papers should leave these options alone.
+\documentclass[a4paper,fleqn,usenatbib, twocolumn]{aastex61}
+
+% Force the pdf version for MNRAS
+\pdfminorversion=5
 
 % If your system does not have the AMS fonts version 2.0 installed, then
 % remove the useAMS option.
@@ -40,21 +35,21 @@
 
 %%%%% AUTHORS - PLACE YOUR OWN MACROS HERE %%%%%
 
-\usepackage{graphicx}
-\usepackage{supertabular}
-\usepackage{subfig}
-\usepackage{rotating}
-\usepackage{lscape}
-\usepackage{epsfig}
-%\usepackage{natbib}
-\usepackage{amssymb}
-%\usepackage{myaasmacros}
-\usepackage{amsmath}
-\usepackage{multicol}
-%\usepackage{makecell}
-%\usepackage{slashbox}
-\usepackage{color}
-\usepackage{tikz}
+%\usepackage{graphicx}
+%\usepackage{supertabular}
+%\usepackage{subfig}
+%\usepackage{rotating}
+%\usepackage{lscape}
+%\usepackage{epsfig}
+%%\usepackage{natbib}
+%\usepackage{amssymb}
+%%\usepackage{myaasmacros}
+%\usepackage{amsmath}
+%\usepackage{multicol}
+%%\usepackage{makecell}
+%%\usepackage{slashbox}
+%\usepackage{color}
+%\usepackage{tikz}
 
 \bibliographystyle{astron}
 
@@ -83,39 +78,64 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\received{Dec X, 2017}
+%% Command to document which AAS Journal the manuscript was submitted to.
+%% Adds "Submitted to " the arguement.
+\submitjournal{ApJS}
 
-
-\title[The \textit{Herschel}-ATLAS Data Release 2]{The
-  \textit{Herschel}-ATLAS Data Release 2 - Paper 2: Catalogues of
-  far-infrared and submillimetre sources in the fields at the south
-  and north Galactic Poles}
-\author[S.J. Maddox]{S.J. Maddox$^{1,2}$\thanks{E-mail:
-    maddoxs@cardiff.ac.uk}, E. Valiante$^1$, P. Cigan$^1$, 
-  L. Dunne$^{1,2}$,
-  \textsc{}\newauthor M.W.L. Smith$^1$, S. Eales$^1$, S. Dye$^3$,
-  C. Furlanetto$^{3,5}$, E. Ibar$^4$, \newauthor
-  J. S. Millard$^1$, N. Bourne$^2$, H. Gomez$^1$ and R.J. Ivison$^6$\\
-  $^{1}$School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK\\
-  $^2$Institute for Astronomy, The University of Edinburgh, Royal
-  Observatory, Blackford Hill,
-  Edinburgh, EH9 3HJ, UK\\
-  $^3$ School of Physics and Astronomy, University of Nottingham,
-  University Park, Nottingham,
-  NG7 2RD, UK\\
-  $^4$ §Instituto de F\'isica y Astronom\'ia, Universidad de Valpara\'iso, Avda. Gran Breta\~na 1111, Valpara\'iso, Chile.\\
-  $^5$ Departamento de Fisica, Universidade Federale do Rio Grande do Sul., Av. Bento Goncalves,\\
-  9500, 91501-970, Porto Algres, RS Brazil\\
-  $^6$ European Southern Observatory, Karl-Schwarzschild-Strasse 2,
-  85748, Garching, Germany}
-
-
-\date{}
-\pubyear{2018}
+\shorttitle{The \textit{Herschel}-ATLAS Data Release 2}
+\shortauthors{Maddox et al.}
 
 \begin{document}
-\label{firstpage}
-\pagerange{\pageref{firstpage}--\pageref{lastpage}}\pubyear{2016}
-\maketitle
+
+\title{The \textit{Herschel}-ATLAS Data Release 2 - Paper 2: Catalogues of
+       far-infrared and submillimetre sources in the fields at the south
+       and north Galactic Poles}
+
+\correspondingauthor{S. J. Maddox}
+\email{maddoxs@cardiff.ac.uk}
+
+\author[0000-0001-5549-195X]{S.J. Maddox}
+\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+\affiliation{Institute for Astronomy, The University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK.}
+
+\author{E. Valiante}
+\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+
+\author{P. Cigan}
+\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+
+\author{L. Dunne}
+\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+\affiliation{Institute for Astronomy, The University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK.}
+
+\author{M. W. L. Smith}
+\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+
+\author{S. Eales}
+\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+
+\author{S. Dye}
+\affiliation{School of Physics and Astronomy, University of Nottingham, University Park, Nottingham, NG7 2RD, UK.}
+
+\author{C. Furlanetto}
+\affiliation{School of Physics and Astronomy, University of Nottingham, University Park, Nottingham, NG7 2RD, UK.}
+\affiliation{Departamento de Fisica, Universidade Federale do Rio Grande do Sul., Av. Bento Goncalves, 9500, 91501-970, Porto Algres, RS Brazil}
+
+\author{E. Ibar}
+\affiliation{§Instituto de F\'isica y Astronom\'ia, Universidad de Valpara\'iso, Avda. Gran Breta\~na 1111, Valpara\'iso, Chile.}
+
+\author{J. S. Millard}
+\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+
+\author{N. Bourne}
+\affiliation{Institute for Astronomy, The University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK.}
+
+\author{H. Gomez}
+\affiliation{School of Physics and Astronomy, University of Nottingham, University Park, Nottingham, NG7 2RD, UK.}
+
+\author{R. J. Ivison}
+\affiliation{European Southern Observatory, Karl-Schwarzschild-Strasse 2, 85748, Garching, Germany}
 
 
 \begin{abstract}
@@ -140,10 +160,8 @@
   catalogues for astronomical projects.
 \end{abstract}
 
-\begin{keywords}
-methods: data analysis - catalogues - surveys - galaxies: statistics - cosmology:
-observations - submillimetre: galaxies
-\end{keywords}
+\keywords{methods: data analysis - catalogues - surveys - galaxies: statistics - cosmology:
+observations - submillimetre: galaxies}
 
 \section{Introduction}
 
@@ -221,7 +239,7 @@ NGP and SGP, respectively) is slightly smaller than the
 sizes of the images (180.1 deg$^2$ and 317.6 deg$^2$, respectively - S17).
 
 \begin{figure} %1 
-\includegraphics[scale=0.9]{ngpcoverage.pdf}
+\includegraphics[scale=0.9, trim=0.0mm 5.0mm 0.0mm 0.0mm, clip=True]{ngpcoverage.pdf}
 \caption{\protect\label{skymapn} The coverage map for 250\mic\ observations
 of the NGP field.
 The map shows the number of samples from the bolometer timelines contributing
@@ -232,7 +250,7 @@ The range of the grayscale is from 0 samples (white) to 27 samples
 \end{figure}
 
 \begin{figure*} %2 
-\includegraphics[scale=1.]{sgpcoverage.pdf}
+\includegraphics[scale=1., trim=0.0mm 5.0mm 0.0mm 5.0mm]{sgpcoverage.pdf}
 \caption{ \protect\label{skymaps} 
 The coverage map for 250\mic\ observations
 of the SGP field.
@@ -764,12 +782,12 @@ $>3\sigma$ at 100 $\mu$m and 6,342 sources were detected at $>3\sigma$
 at 160 $\mu$m.
 
 
-\begin{table}
-\caption{Stars in H-ATLAS}
-\begin{tabular}{cl}
-\hline
-Name & Position \\
-\hline
+\begin{deluxetable}{cl}
+\tablecaption{Stars in H-ATLAS}
+\tablecolumns{2}
+\tablewidth{0pt}
+\tablehead{ \colhead{Name} & \colhead{Position}}
+\startdata
 EY Hya & 08:46:21.4 $+$01:37:53 \\
 IN Hya & 09:20:36.7 $+$00:10:53 \\
 NU Com & 13:10:08.5 $+$24:36:02 \\
@@ -782,9 +800,8 @@ Y Sci & 23:09:05.7 $-$30:08:04 \\
 HD 119617 & 13:43:35.2 $+$35:20:45 \\
 R Sci & 01:26:58.2 $-$32:32:37 \\
 Fomalhaut & 22:57:39.2 $-$29:37:22 \\
-\hline
-\end{tabular}
-\end{table}
+\enddata
+\end{deluxetable}
 
 The catalogue for the SGP contains 190,318 sources, of which 182,485 were
 detected at $>4\sigma$ at 250 $\mu$m, 69,516 at $>4\sigma$ at 350 $\mu$m
@@ -882,8 +899,11 @@ are only $\simeq$1 arcsec, less than the quoted pointing accuracy of
 %\includegraphics[scale=0.3]{ngp_posn_errors_new.pdf}
 %\includegraphics[scale=0.3,trim=0 45mm 0mm 45mm]{sgp_astrometry2.pdf}
 %\includegraphics[scale=0.3,trim=0 45mm 0mm 45mm]{sgp_astrometry1.pdf}
-\includegraphics[scale=0.23]{ngp_dra.png} \hspace{5mm}
+\hspace{10mm}
+\includegraphics[scale=0.23]{ngp_dra.png}
+\hspace{13mm}
 \includegraphics[scale=0.23]{ngp_ddec.png}
+\hspace{30mm}\\
 \includegraphics[scale=0.6,trim={0 87mm 0mm 75mm}, clip]{sgp_dra.png}
 \includegraphics[scale=0.6,trim={0 60mm 0mm 80mm}, clip]{sgp_ddec.png}
 \caption{\protect\label{fig_pos_errs} The mean positional errors in
