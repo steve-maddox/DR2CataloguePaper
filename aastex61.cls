@@ -996,7 +996,7 @@ Typeset using \LaTeX\ {\bf modern} style in AASTeX61}
      \setcounter{footnote}{\thefront@matter@foot@note}%
      \let\footnotetext=\old@foot@note@text
      \let\footnotemark=\old@foot@note@mark
-   \clearpage
+   %\clearpage % My modifications
    \if@two@col
    \twocolumngrid
    \fi
@@ -6204,8 +6204,9 @@ needed. It will not do anything.^^J Please use
 \if@firstsection
   \let\abstract\@undefined\let\endabstract\@undefined
   \titlepage@sw{%
-   \vfil
-   \clearpage
+   \vspace{36pt}
+   %\vfil  % my edit
+   %\clearpage % my edit
   }{}%
 \fi
 }%
