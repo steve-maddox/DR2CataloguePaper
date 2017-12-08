@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  8 DEC 2017 14:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  8 DEC 2017 22:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -965,182 +965,183 @@ Package pdftex.def Info: noise_plots.pdf used on input line 427.
 File: flux_area.pdf Graphic file (type pdf)
 
 <use flux_area.pdf>
-Package pdftex.def Info: flux_area.pdf used on input line 444.
-(pdftex.def)             Requested size: 256.55872pt x 363.06245pt.
+Package pdftex.def Info: flux_area.pdf used on input line 445.
+(pdftex.def)             Requested size: 307.87358pt x 437.6294pt.
 
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 444--447
+Overfull \hbox (65.60706pt too wide) in paragraph at lines 445--448
 [][] 
  []
 
 [4] [5 <./noise_plots.pdf>]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 541.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 542.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 541.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 542.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 577
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 578
 .
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 577.
+(Font)              scaled to size 10.0pt on input line 578.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.3pt on input line 577.
+(Font)              scaled to size 7.3pt on input line 578.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 5.5pt on input line 577.
+(Font)              scaled to size 5.5pt on input line 578.
  [6 <./flux_area.pdf>] [7]
-Overfull \hbox (7.42116pt too wide) in paragraph at lines 757--767
+Overfull \hbox (7.42116pt too wide) in paragraph at lines 758--768
 \T1/aer/m/scit/10 logue sug-gests 90% com-plete-ness down to F350BEST=650
  []
 
-<planck_comp350.pdf, id=151, 845.1575pt x 597.23125pt>
+<planck_comp350.pdf, id=146, 845.1575pt x 597.23125pt>
 File: planck_comp350.pdf Graphic file (type pdf)
 
 <use planck_comp350.pdf>
-Package pdftex.def Info: planck_comp350.pdf used on input line 773.
+Package pdftex.def Info: planck_comp350.pdf used on input line 774.
 (pdftex.def)             Requested size: 307.87358pt x 251.40953pt.
 
-<planck_comp500.pdf, id=153, 845.1575pt x 597.23125pt>
+<planck_comp500.pdf, id=148, 845.1575pt x 597.23125pt>
 File: planck_comp500.pdf Graphic file (type pdf)
 
 <use planck_comp500.pdf>
-Package pdftex.def Info: planck_comp500.pdf used on input line 774.
+Package pdftex.def Info: planck_comp500.pdf used on input line 775.
 (pdftex.def)             Requested size: 307.87358pt x 251.40953pt.
 
-Overfull \hbox (65.60706pt too wide) in paragraph at lines 773--775
+Overfull \hbox (65.60706pt too wide) in paragraph at lines 774--776
 [][]
  []
 
 
-Overfull \hbox (65.60706pt too wide) in paragraph at lines 773--775
+Overfull \hbox (65.60706pt too wide) in paragraph at lines 774--776
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 9.0pt on input line 776.
+(Font)              scaled to size 9.0pt on input line 777.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 8.0pt on input line 847.
+(Font)              scaled to size 8.0pt on input line 848.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 6.2pt on input line 847.
+(Font)              scaled to size 6.2pt on input line 848.
 
-Underfull \hbox (badness 10000) in paragraph at lines 847--847
+Underfull \hbox (badness 10000) in paragraph at lines 848--848
 [][]| [] [][][][]$\T1/aett/m/n/8 http : / / herschel . esac . esa . int / Docs 
 / SPIRE / spire _
  []
 
-[8 <./planck_comp350.pdf> <./planck_comp500.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 859--859
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--860
 [][]| [] [][][][]$\T1/aett/m/n/8 http : / / herschel . esac . esa . int / twiki
  / pub / Public /
  []
 
-<cum_sn_best_NGP.pdf, id=176, 845.1575pt x 597.23125pt>
-File: cum_sn_best_NGP.pdf Graphic file (type pdf)
+[8]
 
-<use cum_sn_best_NGP.pdf>
-Package pdftex.def Info: cum_sn_best_NGP.pdf used on input line 942.
-(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
-
-<cum_sn_best_SGP.pdf, id=177, 845.1575pt x 597.23125pt>
-File: cum_sn_best_SGP.pdf Graphic file (type pdf)
-
-<use cum_sn_best_SGP.pdf>
-Package pdftex.def Info: cum_sn_best_SGP.pdf used on input line 943.
-(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
-
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 942--944
-[][]
- []
+LaTeX Warning: A float is stuck (cannot be placed) on input line 878.
 
 
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 942--944
-[] 
- []
-
-[9]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 960.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 960.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 878.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-<cum_counts_best_NGP.pdf, id=191, 845.1575pt x 597.23125pt>
+[9 <./planck_comp350.pdf> <./planck_comp500.pdf>]
+<cum_sn_best_NGP.pdf, id=183, 845.1575pt x 597.23125pt>
+File: cum_sn_best_NGP.pdf Graphic file (type pdf)
+
+<use cum_sn_best_NGP.pdf>
+Package pdftex.def Info: cum_sn_best_NGP.pdf used on input line 943.
+(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
+
+<cum_sn_best_SGP.pdf, id=184, 845.1575pt x 597.23125pt>
+File: cum_sn_best_SGP.pdf Graphic file (type pdf)
+
+<use cum_sn_best_SGP.pdf>
+Package pdftex.def Info: cum_sn_best_SGP.pdf used on input line 944.
+(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 943--945
+[][]
+ []
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 943--945
+[] 
+ []
+
+<cum_counts_best_NGP.pdf, id=186, 845.1575pt x 597.23125pt>
 File: cum_counts_best_NGP.pdf Graphic file (type pdf)
 
 <use cum_counts_best_NGP.pdf>
-Package pdftex.def Info: cum_counts_best_NGP.pdf used on input line 962.
+Package pdftex.def Info: cum_counts_best_NGP.pdf used on input line 963.
 (pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
 
-<cum_counts_best_SGP.pdf, id=192, 845.1575pt x 597.23125pt>
+<cum_counts_best_SGP.pdf, id=187, 845.1575pt x 597.23125pt>
 File: cum_counts_best_SGP.pdf Graphic file (type pdf)
 
 <use cum_counts_best_SGP.pdf>
-Package pdftex.def Info: cum_counts_best_SGP.pdf used on input line 963.
+Package pdftex.def Info: cum_counts_best_SGP.pdf used on input line 964.
 (pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
 
-Overfull \hbox (16.34418pt too wide) in paragraph at lines 962--964
+Overfull \hbox (16.34418pt too wide) in paragraph at lines 963--965
 [] [] 
  []
 
 
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 962--964
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 963--965
 [] 
  []
 
 [10 <./cum_sn_best_NGP.pdf> <./cum_sn_best_SGP.pdf> <./cum_counts_best_NGP.pdf>
- <./cum_counts_best_SGP.pdf>] <ngp_dra.png, id=212, 843.15pt x 592.1322pt>
+ <./cum_counts_best_SGP.pdf>] <ngp_dra.png, id=204, 843.15pt x 592.1322pt>
 File: ngp_dra.png Graphic file (type png)
 
 <use ngp_dra.png>
-Package pdftex.def Info: ngp_dra.png used on input line 1029.
+Package pdftex.def Info: ngp_dra.png used on input line 1030.
 (pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
- <ngp_ddec.png, id=213, 843.15pt x 592.1322pt>
+ <ngp_ddec.png, id=205, 843.15pt x 592.1322pt>
 File: ngp_ddec.png Graphic file (type png)
 
 <use ngp_ddec.png>
-Package pdftex.def Info: ngp_ddec.png used on input line 1031.
+Package pdftex.def Info: ngp_ddec.png used on input line 1032.
 (pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
- <sgp_dra.png, id=214, 843.15pt x 592.1322pt>
+ <sgp_dra.png, id=206, 843.15pt x 592.1322pt>
 File: sgp_dra.png Graphic file (type png)
 
 <use sgp_dra.png>
-Package pdftex.def Info: sgp_dra.png used on input line 1033.
+Package pdftex.def Info: sgp_dra.png used on input line 1034.
 (pdftex.def)             Requested size: 505.8939pt x 78.71915pt.
- <sgp_ddec.png, id=216, 843.15pt x 592.1322pt>
+ <sgp_ddec.png, id=208, 843.15pt x 592.1322pt>
 File: sgp_ddec.png Graphic file (type png)
 
 <use sgp_ddec.png>
-Package pdftex.def Info: sgp_ddec.png used on input line 1034.
+Package pdftex.def Info: sgp_ddec.png used on input line 1035.
 (pdftex.def)             Requested size: 505.8939pt x 116.27708pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1035
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1036
 []
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 1103--1112
+Underfull \hbox (badness 1377) in paragraph at lines 1104--1113
 \T1/aer/m/scit/10 Union Sev-enth Frame-work Pro-gramme ([FP7/2007-
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 1103--1112
+Underfull \hbox (badness 1142) in paragraph at lines 1104--1113
 \T1/aer/m/scit/10 2013] [FP7/2007-2011]) un-der grant agree-ment No.
  []
 
 [11] [12 <./sgp_dra.png (PNG copy)> <./sgp_ddec.png (PNG copy)> <./ngp_dra.png 
 (PNG copy)> <./ngp_ddec.png (PNG copy)>]
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1187.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1188.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1188.
  (./dr2_paper_v3.aux)
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1187.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1188.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1149,19 +1150,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
-
-
  ) 
 Here is how much of TeX's memory you used:
- 12160 strings out of 493013
- 166763 string characters out of 6133344
- 314816 words of memory out of 5000000
- 15311 multiletter control sequences out of 15000+600000
+ 12159 strings out of 493013
+ 166755 string characters out of 6133344
+ 316924 words of memory out of 5000000
+ 15310 multiletter control sequences out of 15000+600000
  92659 words of font info for 196 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,10n,38p,418b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,10n,38p,418b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2016/texmf-dist/fonts/enc/dvips/base/ec.enc}{/usr/local/texlive/2016/tex
 mf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</usr/local/texlive/2016/texmf-di
@@ -1187,10 +1184,10 @@ sr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/loc
 al/texlive/2016/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2016/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on dr2_paper_v3.pdf (12 pages, 1495565 bytes).
+Output written on dr2_paper_v3.pdf (12 pages, 1502350 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
- 279 compressed objects within 3 object streams
+ 343 PDF objects out of 1000 (max. 8388607)
+ 273 compressed objects within 3 object streams
  78 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -441,7 +441,8 @@ arbitrary limit.
 \end{figure*}
 
 \begin{figure} %4
-\includegraphics[width=0.5\textwidth]{flux_area.pdf}
+%  \includegraphics[width=0.5\textwidth]{flux_area.pdf}
+  \includegraphics[width=0.6\textwidth,trim=25mm 10mm -10mm 10mm]{flux_area.pdf}
 % \includegraphics[width=0.5\textwidth]{flux_area_350.pdf}
 % \includegraphics[width=0.5\textwidth]{flux_area_500.pdf}
 \caption{The relationship between area and 4$\sigma$ flux-density
@@ -452,7 +453,7 @@ arbitrary limit.
   high flux densities in the blue line in these panels.}
 
 \label{fig_areas}
-\end{figure}
+\end{figure} 
 
 \section{Photometry}
 
@@ -468,7 +469,7 @@ using {\tt MADX} to estimate their flux densities
 (Section 2.2).  
 They found that at 250\mic, the detection
 wavelength, the confusion noise varies as a function
-of source flux and gave a simple formula to approximate this:
+of source flux density and gave a simple formula to approximate this:
 \smallskip
 \begin{equation}
 \sigma_{\mathrm{con}250} = \sqrt{\min(0.0049,f_{250}/5.6)^2 +
@@ -502,7 +503,7 @@ western end that was covered by a single observation (S17).
 
 The variation of noise across the maps means that the 4$\sigma$
 flux-density limit varies over the fields, and hence the available
-area depends on the chosen flux limit. Figure~\ref{fig_areas}
+area depends on the chosen flux density limit. Figure~\ref{fig_areas}
 shows the relationship between area and flux-density limit for each of
 the H-ATLAS fields, including the GAMA fields.
 
@@ -772,7 +773,7 @@ only 9 sources above this limit.
 \begin{figure}
   \includegraphics[width=0.6\textwidth, trim=40mm .0mm 0.0mm .0mm, clip=True]{planck_comp350}
   \includegraphics[width=0.6\textwidth, trim=40mm .0mm 0.0mm .0mm, clip=True]{planck_comp500}
-  \caption{Comparison between H-ATLAS and Planck flux measurements for
+  \caption{Comparison between H-ATLAS and Planck flux density measurements for
     350\mic\ and 500\mic\ bands.}\label{fig:planck}
 \end{figure}
 
@@ -962,7 +963,7 @@ predictions.
 \textsl{}  \includegraphics[width=0.5\textwidth]{cum_counts_best_NGP.pdf}\\
   \includegraphics[width=0.5\textwidth]{cum_counts_best_SGP.pdf}
   \caption{\protect\label{fig_cum_flux} The cumulative number of
-    sources as a function of flux at 100\mic\ (black), 160\mic\ (blue),
+    sources as a function of flux density at 100\mic\ (black), 160\mic\ (blue),
     250\mic (cyan), 350\mic\ (green) and 500\mic\ (red). The NGP area is
     shown in the top panel, and the SGP in the bottom panel. The
     counts are plotted only above the limit of 3$\sigma$ in each wave
