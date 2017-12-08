@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  7 DEC 2017 14:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  8 DEC 2017 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -898,29 +898,29 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.2pt on input line 95.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 170.
+(Font)              scaled to size 9.0pt on input line 173.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 170--170
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 173--173
 [][] 
  []
 
 LaTeX Font Info:    Try loading font information for T1+ntxsups on input line 1
-76.
+79.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/t1ntxsups.fd
 File: t1ntxsups.fd 2015/01/17 v1.0
 )
 LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
-(Font)              scaled to size 10.0pt on input line 176.
+(Font)              scaled to size 10.0pt on input line 179.
 LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
-(Font)              scaled to size 8.0pt on input line 178.
+(Font)              scaled to size 8.0pt on input line 181.
  [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+aett on input line 235.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 238.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-Underfull \hbox (badness 1117) in paragraph at lines 234--245
+Underfull \hbox (badness 1117) in paragraph at lines 237--248
 \T1/aer/m/n/10 from the H-ATLAS web-site ([][]$\T1/aett/m/n/10 http : / / www .
  h-[]atlas .
  []
@@ -928,287 +928,232 @@ Underfull \hbox (badness 1117) in paragraph at lines 234--245
 <ngpcoverage.pdf, id=32, 290.1166pt x 256.17255pt>
 File: ngpcoverage.pdf Graphic file (type pdf)
  <use ngpcoverage.pdf>
-Package pdftex.def Info: ngpcoverage.pdf used on input line 247.
+Package pdftex.def Info: ngpcoverage.pdf used on input line 250.
 (pdftex.def)             Requested size: 261.10251pt x 217.74954pt.
 
-Overfull \hbox (18.83598pt too wide) in paragraph at lines 247--248
+Overfull \hbox (18.83598pt too wide) in paragraph at lines 250--251
 [][] 
  []
 
 <sgpcoverage.pdf, id=34, 542.025pt x 167.62625pt>
 File: sgpcoverage.pdf Graphic file (type pdf)
  <use sgpcoverage.pdf>
-Package pdftex.def Info: sgpcoverage.pdf used on input line 258.
+Package pdftex.def Info: sgpcoverage.pdf used on input line 261.
 (pdftex.def)             Requested size: 542.02367pt x 139.17319pt.
 
-Overfull \hbox (28.90623pt too wide) in paragraph at lines 258--259
+Overfull \hbox (28.90623pt too wide) in paragraph at lines 261--262
 [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[2 <./ngpcoverage.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
 [][]| [] [][][][]$\T1/aett/m/n/8 http : / / casu . ast . cam . ac . uk / survey
 s-[]projects /
  []
 
-[2 <./ngpcoverage.pdf>]
 
 LaTeX Font Warning: Font shape `T1/aer/m/scit' undefined
-(Font)              using `T1/aer/m/n' instead on input line 354.
+(Font)              using `T1/aer/m/n' instead on input line 357.
 
-[3 <./sgpcoverage.pdf>]
-<flux_noise_250NGP.pdf, id=91, 845.1575pt x 597.23125pt>
-File: flux_noise_250NGP.pdf Graphic file (type pdf)
+[3 <./sgpcoverage.pdf>] <noise_plots.pdf, id=91, 845.1575pt x 597.23125pt>
+File: noise_plots.pdf Graphic file (type pdf)
 
-<use flux_noise_250NGP.pdf>
-Package pdftex.def Info: flux_noise_250NGP.pdf used on input line 417.
-(pdftex.def)             Requested size: 153.93678pt x 108.7728pt.
+<use noise_plots.pdf>
+Package pdftex.def Info: noise_plots.pdf used on input line 426.
+(pdftex.def)             Requested size: 513.11743pt x 362.6064pt.
 
-<flux_noise_350NGP.pdf, id=92, 845.1575pt x 597.23125pt>
-File: flux_noise_350NGP.pdf Graphic file (type pdf)
 
-<use flux_noise_350NGP.pdf>
-Package pdftex.def Info: flux_noise_350NGP.pdf used on input line 418.
-(pdftex.def)             Requested size: 153.93678pt x 108.7728pt.
+LaTeX Warning: File `flux_areas.pdf' not found on input line 446.
 
-<flux_noise_500NGP.pdf, id=93, 845.1575pt x 597.23125pt>
-File: flux_noise_500NGP.pdf Graphic file (type pdf)
 
-<use flux_noise_500NGP.pdf>
-Package pdftex.def Info: flux_noise_500NGP.pdf used on input line 419.
-(pdftex.def)             Requested size: 153.93678pt x 108.7728pt.
+./dr2_paper_v2.tex:446: Package pdftex.def Error: File `flux_areas.pdf' not fou
+nd.
 
-<flux_noise_250SGP.pdf, id=94, 845.1575pt x 597.23125pt>
-File: flux_noise_250SGP.pdf Graphic file (type pdf)
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.446 ...raphics[width=\textwidth]{flux_areas.pdf}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use flux_noise_250SGP.pdf>
-Package pdftex.def Info: flux_noise_250SGP.pdf used on input line 420.
-(pdftex.def)             Requested size: 153.93678pt x 108.7728pt.
 
-<flux_noise_350SGP.pdf, id=95, 845.1575pt x 597.23125pt>
-File: flux_noise_350SGP.pdf Graphic file (type pdf)
-
-<use flux_noise_350SGP.pdf>
-Package pdftex.def Info: flux_noise_350SGP.pdf used on input line 421.
-(pdftex.def)             Requested size: 153.93678pt x 108.7728pt.
-
-<flux_noise_500SGP.pdf, id=96, 845.1575pt x 597.23125pt>
-File: flux_noise_500SGP.pdf Graphic file (type pdf)
-
-<use flux_noise_500SGP.pdf>
-Package pdftex.def Info: flux_noise_500SGP.pdf used on input line 422.
-(pdftex.def)             Requested size: 153.93678pt x 108.7728pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 417--423
-[][] [] []
+Overfull \hbox (270.8509pt too wide) in paragraph at lines 446--447
+[][] 
  []
 
-<flux_area_250.pdf, id=97, 845.1575pt x 597.23125pt>
-File: flux_area_250.pdf Graphic file (type pdf)
- <use flux_area_250.pdf>
-Package pdftex.def Info: flux_area_250.pdf used on input line 439.
-(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
+[4] [5 <./noise_plots.pdf>]
 
-<flux_area_350.pdf, id=98, 845.1575pt x 597.23125pt>
-File: flux_area_350.pdf Graphic file (type pdf)
- <use flux_area_350.pdf>
-Package pdftex.def Info: flux_area_350.pdf used on input line 440.
-(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
-
-<flux_area_500.pdf, id=99, 845.1575pt x 597.23125pt>
-File: flux_area_500.pdf Graphic file (type pdf)
- <use flux_area_500.pdf>
-Package pdftex.def Info: flux_area_500.pdf used on input line 441.
-(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
-
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 439--442
-[][]
- []
+LaTeX Warning: A float is stuck (cannot be placed) on input line 537.
 
 
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 439--442
-[]
- []
-
-
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 439--442
-[] 
- []
-
-[4] [5 <./flux_noise_250NGP.pdf, page is rotated 90 degrees> <./flux_noise_350N
-GP.pdf, page is rotated 90 degrees> <./flux_noise_500NGP.pdf, page is rotated 9
-0 degrees> <./flux_noise_250SGP.pdf, page is rotated 90 degrees> <./flux_noise_
-350SGP.pdf, page is rotated 90 degrees> <./flux_noise_500SGP.pdf, page is rotat
-ed 90 degrees>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 558.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 558.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 537.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 568
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 573
 .
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 568.
+(Font)              scaled to size 10.0pt on input line 573.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.3pt on input line 568.
+(Font)              scaled to size 7.3pt on input line 573.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 5.5pt on input line 568.
- [6 <./flux_area_250.pdf, page is rotated 90 degrees> <./flux_area_350.pdf, pag
-e is rotated 90 degrees> <./flux_area_500.pdf, page is rotated 90 degrees>] [7]
-
-Overfull \hbox (7.42116pt too wide) in paragraph at lines 742--752
+(Font)              scaled to size 5.5pt on input line 573.
+ [6] [7]
+Overfull \hbox (7.42116pt too wide) in paragraph at lines 747--757
 \T1/aer/m/scit/10 logue sug-gests 90% com-plete-ness down to F350BEST=650
  []
 
-<planck_comp350.pdf, id=186, 845.1575pt x 597.23125pt>
+<planck_comp350.pdf, id=138, 845.1575pt x 597.23125pt>
 File: planck_comp350.pdf Graphic file (type pdf)
 
 <use planck_comp350.pdf>
-Package pdftex.def Info: planck_comp350.pdf used on input line 758.
+Package pdftex.def Info: planck_comp350.pdf used on input line 763.
 (pdftex.def)             Requested size: 307.87358pt x 251.40953pt.
 
-<planck_comp500.pdf, id=188, 845.1575pt x 597.23125pt>
+<planck_comp500.pdf, id=140, 845.1575pt x 597.23125pt>
 File: planck_comp500.pdf Graphic file (type pdf)
 
 <use planck_comp500.pdf>
-Package pdftex.def Info: planck_comp500.pdf used on input line 759.
+Package pdftex.def Info: planck_comp500.pdf used on input line 764.
 (pdftex.def)             Requested size: 307.87358pt x 251.40953pt.
 
-Overfull \hbox (65.60706pt too wide) in paragraph at lines 758--760
+Overfull \hbox (65.60706pt too wide) in paragraph at lines 763--765
 [][]
  []
 
 
-Overfull \hbox (65.60706pt too wide) in paragraph at lines 758--760
+Overfull \hbox (65.60706pt too wide) in paragraph at lines 763--765
 [] 
  []
 
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 9.0pt on input line 761.
+(Font)              scaled to size 9.0pt on input line 766.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 8.0pt on input line 832.
+(Font)              scaled to size 8.0pt on input line 837.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 6.2pt on input line 832.
+(Font)              scaled to size 6.2pt on input line 837.
 
-Underfull \hbox (badness 10000) in paragraph at lines 832--832
+Underfull \hbox (badness 10000) in paragraph at lines 837--837
 [][]| [] [][][][]$\T1/aett/m/n/8 http : / / herschel . esac . esa . int / Docs 
 / SPIRE / spire _
  []
 
-[8 <./planck_comp350.pdf> <./planck_comp500.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 844--844
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--849
 [][]| [] [][][][]$\T1/aett/m/n/8 http : / / herschel . esac . esa . int / twiki
  / pub / Public /
  []
 
-<cum_sn_best_NGP.pdf, id=212, 845.1575pt x 597.23125pt>
-File: cum_sn_best_NGP.pdf Graphic file (type pdf)
+[8]
 
-<use cum_sn_best_NGP.pdf>
-Package pdftex.def Info: cum_sn_best_NGP.pdf used on input line 927.
-(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
-
-<cum_sn_best_SGP.pdf, id=213, 845.1575pt x 597.23125pt>
-File: cum_sn_best_SGP.pdf Graphic file (type pdf)
-
-<use cum_sn_best_SGP.pdf>
-Package pdftex.def Info: cum_sn_best_SGP.pdf used on input line 928.
-(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
-
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 927--929
-[][]
- []
+LaTeX Warning: A float is stuck (cannot be placed) on input line 867.
 
 
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 927--929
-[] 
- []
-
-<cum_counts_best_NGP.pdf, id=215, 845.1575pt x 597.23125pt>
-File: cum_counts_best_NGP.pdf Graphic file (type pdf)
-
-<use cum_counts_best_NGP.pdf>
-Package pdftex.def Info: cum_counts_best_NGP.pdf used on input line 947.
-(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
-
-<cum_counts_best_SGP.pdf, id=216, 845.1575pt x 597.23125pt>
-File: cum_counts_best_SGP.pdf Graphic file (type pdf)
-
-<use cum_counts_best_SGP.pdf>
-Package pdftex.def Info: cum_counts_best_SGP.pdf used on input line 948.
-(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
-
-Overfull \hbox (16.34418pt too wide) in paragraph at lines 947--949
-[] [] 
- []
-
-
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 947--949
-[] 
- []
-
-[9]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 966.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 966.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 867.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-<ngp_dra.png, id=230, 843.15pt x 592.1322pt>
-File: ngp_dra.png Graphic file (type png)
- <use ngp_dra.png>
-Package pdftex.def Info: ngp_dra.png used on input line 1014.
-(pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
+[9 <./planck_comp350.pdf> <./planck_comp500.pdf>]
+<cum_sn_best_NGP.pdf, id=175, 845.1575pt x 597.23125pt>
+File: cum_sn_best_NGP.pdf Graphic file (type pdf)
 
-<ngp_ddec.png, id=231, 843.15pt x 592.1322pt>
-File: ngp_ddec.png Graphic file (type png)
- <use ngp_ddec.png>
-Package pdftex.def Info: ngp_ddec.png used on input line 1016.
-(pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
+<use cum_sn_best_NGP.pdf>
+Package pdftex.def Info: cum_sn_best_NGP.pdf used on input line 932.
+(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
 
-<sgp_dra.png, id=232, 843.15pt x 592.1322pt>
-File: sgp_dra.png Graphic file (type png)
- <use sgp_dra.png>
-Package pdftex.def Info: sgp_dra.png used on input line 1018.
-(pdftex.def)             Requested size: 505.8939pt x 78.71915pt.
+<cum_sn_best_SGP.pdf, id=176, 845.1575pt x 597.23125pt>
+File: cum_sn_best_SGP.pdf Graphic file (type pdf)
 
-<sgp_ddec.png, id=234, 843.15pt x 592.1322pt>
-File: sgp_ddec.png Graphic file (type png)
- <use sgp_ddec.png>
-Package pdftex.def Info: sgp_ddec.png used on input line 1019.
-(pdftex.def)             Requested size: 505.8939pt x 116.27708pt.
+<use cum_sn_best_SGP.pdf>
+Package pdftex.def Info: cum_sn_best_SGP.pdf used on input line 933.
+(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1013--1020
-[]
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 932--934
+[][]
+ []
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 932--934
+[] 
+ []
+
+<cum_counts_best_NGP.pdf, id=178, 845.1575pt x 597.23125pt>
+File: cum_counts_best_NGP.pdf Graphic file (type pdf)
+
+<use cum_counts_best_NGP.pdf>
+Package pdftex.def Info: cum_counts_best_NGP.pdf used on input line 952.
+(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
+
+<cum_counts_best_SGP.pdf, id=179, 845.1575pt x 597.23125pt>
+File: cum_counts_best_SGP.pdf Graphic file (type pdf)
+
+<use cum_counts_best_SGP.pdf>
+Package pdftex.def Info: cum_counts_best_SGP.pdf used on input line 953.
+(pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
+
+Overfull \hbox (16.34418pt too wide) in paragraph at lines 952--954
+[] [] 
+ []
+
+
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 952--954
+[] 
  []
 
 [10 <./cum_sn_best_NGP.pdf> <./cum_sn_best_SGP.pdf> <./cum_counts_best_NGP.pdf>
- <./cum_counts_best_SGP.pdf>] [11 <./sgp_dra.png (PNG copy)> <./sgp_ddec.png (P
-NG copy)> <./ngp_dra.png (PNG copy)> <./ngp_ddec.png (PNG copy)>]
-Underfull \hbox (badness 1377) in paragraph at lines 1086--1095
+ <./cum_counts_best_SGP.pdf>] <ngp_dra.png, id=200, 843.15pt x 592.1322pt>
+File: ngp_dra.png Graphic file (type png)
+
+<use ngp_dra.png>
+Package pdftex.def Info: ngp_dra.png used on input line 1019.
+(pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
+ <ngp_ddec.png, id=201, 843.15pt x 592.1322pt>
+File: ngp_ddec.png Graphic file (type png)
+
+<use ngp_ddec.png>
+Package pdftex.def Info: ngp_ddec.png used on input line 1021.
+(pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
+ <sgp_dra.png, id=202, 843.15pt x 592.1322pt>
+File: sgp_dra.png Graphic file (type png)
+
+<use sgp_dra.png>
+Package pdftex.def Info: sgp_dra.png used on input line 1023.
+(pdftex.def)             Requested size: 505.8939pt x 78.71915pt.
+ <sgp_ddec.png, id=204, 843.15pt x 592.1322pt>
+File: sgp_ddec.png Graphic file (type png)
+
+<use sgp_ddec.png>
+Package pdftex.def Info: sgp_ddec.png used on input line 1024.
+(pdftex.def)             Requested size: 505.8939pt x 116.27708pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1025
+[]
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 1091--1100
 \T1/aer/m/scit/10 Union Sev-enth Frame-work Pro-gramme ([FP7/2007-
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 1086--1095
+Underfull \hbox (badness 1142) in paragraph at lines 1091--1100
 \T1/aer/m/scit/10 2013] [FP7/2007-2011]) un-der grant agree-ment No.
  []
 
-[12]
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1171.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1171.
+[11] [12 <./sgp_dra.png (PNG copy)> <./sgp_ddec.png (PNG copy)> <./ngp_dra.png 
+(PNG copy)> <./ngp_ddec.png (PNG copy)>]
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1176.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1176.
  (./dr2_paper_v2.aux)
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1171.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1176.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1219,13 +1164,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12194 strings out of 493013
- 167633 string characters out of 6133344
- 300900 words of memory out of 5000000
- 15338 multiletter control sequences out of 15000+600000
- 92659 words of font info for 196 fonts, out of 8000000 for 9000
+ 12158 strings out of 493013
+ 166704 string characters out of 6133344
+ 315128 words of memory out of 5000000
+ 15307 multiletter control sequences out of 15000+600000
+ 93147 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,10n,38p,418b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,10n,38p,418b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2016/texmf-dist/fonts/enc/dvips/base/ec.enc}{/usr/local/texlive/2016/tex
 mf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</usr/local/texlive/2016/texmf-di
@@ -1242,19 +1187,20 @@ blic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmti9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmtt8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/new
-tx/ntxsups-Regular.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/t
-ex-gyre/qtmr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts
-/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtx/rtxmi7.
-pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on dr2_paper_v2.pdf (12 pages, 1495918 bytes).
+msfonts/cm/cmtt8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmtt9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtx
+/ntxsups-Regular.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/tex
+-gyre/qtmr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/r
+txmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtx/rtxmi7.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on dr2_paper_v2.pdf (12 pages, 1421437 bytes).
 PDF statistics:
- 386 PDF objects out of 1000 (max. 8388607)
- 311 compressed objects within 4 object streams
+ 342 PDF objects out of 1000 (max. 8388607)
+ 275 compressed objects within 3 object streams
  78 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
