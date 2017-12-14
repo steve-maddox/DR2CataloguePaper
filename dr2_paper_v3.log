@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  8 DEC 2017 22:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  14 DEC 2017 11:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -735,67 +735,67 @@ File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 Package: aecompl 1998/07/23 0.9 T1 Complements for AE fonts (D. Roegel)
 )
 Class revtex4-1 Info: Unrecognized array package. Please update this document c
-lass! (Proceeding with fingers crossed.) on input line 89.
+lass! (Proceeding with fingers crossed.) on input line 88.
 Class revtex4-1 Info: Patching unrecognized longtable package. (Proceeding with
- fingers crossed) on input line 89.
-Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 89.
+ fingers crossed) on input line 88.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 88.
 
-Class revtex4-1 Info: cite was not loaded (OK!) on input line 89.
-Class revtex4-1 Info: mcite was not loaded (OK!) on input line 89.
-Class revtex4-1 Info: multicol was not loaded (OK!) on input line 89.
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 88.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 88.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 88.
 
 (./dr2_paper_v3.aux)
 \openout1 = `dr2_paper_v3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 89.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 89
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 88.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 88
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 89.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 89.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 88.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 88.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 89.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 88.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 89.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 89
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 88.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 88
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 88.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 8
-9.
+8.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    ... okay on input line 88.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -828,7 +828,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring ON on input line 89.
+Package hyperref Info: Link coloring ON on input line 88.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -838,89 +838,89 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count166
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 88.
+LaTeX Info: Redefining \pageref on input line 88.
+LaTeX Info: Redefining \nameref on input line 88.
 \c@mv@tabular=\count167
 \c@mv@boldtabular=\count168
 \openout3 = `dr2_paper_v3Notes.bib'.
 
 LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 9
-5.
+4.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 95.
+(Font)              scaled to size 10.0pt on input line 94.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 95.
+(Font)              scaled to size 7.3pt on input line 94.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 95.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 95.
+(Font)              scaled to size 5.5pt on input line 94.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 94.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 
 LaTeX Font Warning: Font shape `U/lasy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 95.
+(Font)              size <5> substituted on input line 94.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 95.
+LaTeX Font Info:    Try loading font information for U+msa on input line 94.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 95.
+LaTeX Font Info:    Try loading font information for U+msb on input line 94.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 95.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 94.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 95.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 94.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 95.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 94.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 95.
+(Font)              scaled to size 8.0pt on input line 94.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.2pt on input line 95.
+(Font)              scaled to size 6.2pt on input line 94.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 174.
+(Font)              scaled to size 9.0pt on input line 179.
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 174--174
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 179--179
 [][] 
  []
 
 LaTeX Font Info:    Try loading font information for T1+ntxsups on input line 1
-80.
+85.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/t1ntxsups.fd
 File: t1ntxsups.fd 2015/01/17 v1.0
 )
 LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
-(Font)              scaled to size 10.0pt on input line 180.
+(Font)              scaled to size 10.0pt on input line 185.
 LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
-(Font)              scaled to size 8.0pt on input line 182.
+(Font)              scaled to size 8.0pt on input line 187.
  [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+aett on input line 239.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 244.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-Underfull \hbox (badness 1117) in paragraph at lines 238--249
+Underfull \hbox (badness 1117) in paragraph at lines 243--254
 \T1/aer/m/n/10 from the H-ATLAS web-site ([][]$\T1/aett/m/n/10 http : / / www .
  h-[]atlas .
  []
@@ -928,220 +928,210 @@ Underfull \hbox (badness 1117) in paragraph at lines 238--249
 <ngpcoverage.pdf, id=32, 290.1166pt x 256.17255pt>
 File: ngpcoverage.pdf Graphic file (type pdf)
  <use ngpcoverage.pdf>
-Package pdftex.def Info: ngpcoverage.pdf used on input line 251.
+Package pdftex.def Info: ngpcoverage.pdf used on input line 256.
 (pdftex.def)             Requested size: 261.10251pt x 217.74954pt.
 
-Overfull \hbox (18.83598pt too wide) in paragraph at lines 251--252
+Overfull \hbox (18.83598pt too wide) in paragraph at lines 256--257
 [][] 
  []
 
 <sgpcoverage.pdf, id=34, 542.025pt x 167.62625pt>
 File: sgpcoverage.pdf Graphic file (type pdf)
  <use sgpcoverage.pdf>
-Package pdftex.def Info: sgpcoverage.pdf used on input line 262.
+Package pdftex.def Info: sgpcoverage.pdf used on input line 267.
 (pdftex.def)             Requested size: 542.02367pt x 139.17319pt.
 
-Overfull \hbox (28.90623pt too wide) in paragraph at lines 262--263
+Overfull \hbox (28.90623pt too wide) in paragraph at lines 267--268
 [][] 
  []
 
 [2 <./ngpcoverage.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 298--298
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
 [][]| [] [][][][]$\T1/aett/m/n/8 http : / / casu . ast . cam . ac . uk / survey
 s-[]projects /
  []
 
 
 LaTeX Font Warning: Font shape `T1/aer/m/scit' undefined
-(Font)              using `T1/aer/m/n' instead on input line 358.
+(Font)              using `T1/aer/m/n' instead on input line 363.
 
 [3 <./sgpcoverage.pdf>] <noise_plots.pdf, id=91, 845.1575pt x 597.23125pt>
 File: noise_plots.pdf Graphic file (type pdf)
 
 <use noise_plots.pdf>
-Package pdftex.def Info: noise_plots.pdf used on input line 427.
+Package pdftex.def Info: noise_plots.pdf used on input line 432.
 (pdftex.def)             Requested size: 513.11743pt x 362.6064pt.
  <flux_area.pdf, id=92, 597.23125pt x 845.1575pt>
 File: flux_area.pdf Graphic file (type pdf)
 
 <use flux_area.pdf>
-Package pdftex.def Info: flux_area.pdf used on input line 445.
+Package pdftex.def Info: flux_area.pdf used on input line 449.
 (pdftex.def)             Requested size: 307.87358pt x 437.6294pt.
 
-Overfull \hbox (65.60706pt too wide) in paragraph at lines 445--448
+Overfull \hbox (65.60706pt too wide) in paragraph at lines 449--452
 [][] 
  []
 
 [4] [5 <./noise_plots.pdf>]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 542.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 546.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 542.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 546.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 578
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 582
 .
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 578.
+(Font)              scaled to size 10.0pt on input line 582.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.3pt on input line 578.
+(Font)              scaled to size 7.3pt on input line 582.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 5.5pt on input line 578.
- [6 <./flux_area.pdf>] [7]
-Overfull \hbox (7.42116pt too wide) in paragraph at lines 758--768
-\T1/aer/m/scit/10 logue sug-gests 90% com-plete-ness down to F350BEST=650
- []
-
-<planck_comp350.pdf, id=146, 845.1575pt x 597.23125pt>
+(Font)              scaled to size 5.5pt on input line 582.
+ [6 <./flux_area.pdf>] [7] <planck_comp350.pdf, id=143, 845.1575pt x 597.23125p
+t>
 File: planck_comp350.pdf Graphic file (type pdf)
 
 <use planck_comp350.pdf>
-Package pdftex.def Info: planck_comp350.pdf used on input line 774.
-(pdftex.def)             Requested size: 307.87358pt x 251.40953pt.
+Package pdftex.def Info: planck_comp350.pdf used on input line 742.
+(pdftex.def)             Requested size: 256.55872pt x 248.11974pt.
 
-<planck_comp500.pdf, id=148, 845.1575pt x 597.23125pt>
+<planck_comp500.pdf, id=145, 845.1575pt x 597.23125pt>
 File: planck_comp500.pdf Graphic file (type pdf)
 
 <use planck_comp500.pdf>
-Package pdftex.def Info: planck_comp500.pdf used on input line 775.
-(pdftex.def)             Requested size: 307.87358pt x 251.40953pt.
+Package pdftex.def Info: planck_comp500.pdf used on input line 743.
+(pdftex.def)             Requested size: 256.55872pt x 248.11974pt.
 
-Overfull \hbox (65.60706pt too wide) in paragraph at lines 774--776
-[][]
- []
-
-
-Overfull \hbox (65.60706pt too wide) in paragraph at lines 774--776
-[] 
+Overfull \hbox (2.05199pt too wide) in paragraph at lines 742--744
+[][] [] 
  []
 
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 9.0pt on input line 777.
-LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 8.0pt on input line 848.
-LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 6.2pt on input line 848.
+(Font)              scaled to size 9.0pt on input line 745.
 
-Underfull \hbox (badness 10000) in paragraph at lines 848--848
+Underfull \hbox (badness 1852) in paragraph at lines 765--773
+\T1/aer/m/scit/10 nif-i-cant sys-tem-atic off-sets or non-linearity. Also,
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 765--773
+\T1/aer/m/scit/10 with the quoted un-cer-tain-ties. There are a few
+ []
+
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 8.0pt on input line 797.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 6.2pt on input line 797.
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--797
 [][]| [] [][][][]$\T1/aett/m/n/8 http : / / herschel . esac . esa . int / Docs 
 / SPIRE / spire _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 860--860
+Underfull \hbox (badness 10000) in paragraph at lines 809--809
 [][]| [] [][][][]$\T1/aett/m/n/8 http : / / herschel . esac . esa . int / twiki
  / pub / Public /
  []
 
-[8]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 878.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 878.
+Overfull \vbox (11.7115pt too high) has occurred while \output is active []
 
 
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-[9 <./planck_comp350.pdf> <./planck_comp500.pdf>]
-<cum_sn_best_NGP.pdf, id=183, 845.1575pt x 597.23125pt>
+[8] [9 <./planck_comp350.pdf> <./planck_comp500.pdf>] [10] [11]
+<cum_sn_best_NGP.pdf, id=191, 845.1575pt x 597.23125pt>
 File: cum_sn_best_NGP.pdf Graphic file (type pdf)
 
 <use cum_sn_best_NGP.pdf>
-Package pdftex.def Info: cum_sn_best_NGP.pdf used on input line 943.
+Package pdftex.def Info: cum_sn_best_NGP.pdf used on input line 1003.
 (pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
 
-<cum_sn_best_SGP.pdf, id=184, 845.1575pt x 597.23125pt>
+<cum_sn_best_SGP.pdf, id=192, 845.1575pt x 597.23125pt>
 File: cum_sn_best_SGP.pdf Graphic file (type pdf)
 
 <use cum_sn_best_SGP.pdf>
-Package pdftex.def Info: cum_sn_best_SGP.pdf used on input line 944.
+Package pdftex.def Info: cum_sn_best_SGP.pdf used on input line 1004.
 (pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
 
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 943--945
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 1003--1005
 [][]
  []
 
 
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 943--945
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 1003--1005
 [] 
  []
 
-<cum_counts_best_NGP.pdf, id=186, 845.1575pt x 597.23125pt>
+<cum_counts_best_NGP.pdf, id=194, 845.1575pt x 597.23125pt>
 File: cum_counts_best_NGP.pdf Graphic file (type pdf)
 
 <use cum_counts_best_NGP.pdf>
-Package pdftex.def Info: cum_counts_best_NGP.pdf used on input line 963.
+Package pdftex.def Info: cum_counts_best_NGP.pdf used on input line 1023.
 (pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
 
-<cum_counts_best_SGP.pdf, id=187, 845.1575pt x 597.23125pt>
+<cum_counts_best_SGP.pdf, id=195, 845.1575pt x 597.23125pt>
 File: cum_counts_best_SGP.pdf Graphic file (type pdf)
 
 <use cum_counts_best_SGP.pdf>
-Package pdftex.def Info: cum_counts_best_SGP.pdf used on input line 964.
+Package pdftex.def Info: cum_counts_best_SGP.pdf used on input line 1024.
 (pdftex.def)             Requested size: 256.55872pt x 181.30319pt.
 
-Overfull \hbox (16.34418pt too wide) in paragraph at lines 963--965
+Overfull \hbox (16.34418pt too wide) in paragraph at lines 1023--1025
 [] [] 
  []
 
 
-Overfull \hbox (14.29219pt too wide) in paragraph at lines 963--965
+Overfull \hbox (14.29219pt too wide) in paragraph at lines 1023--1025
 [] 
  []
 
-[10 <./cum_sn_best_NGP.pdf> <./cum_sn_best_SGP.pdf> <./cum_counts_best_NGP.pdf>
- <./cum_counts_best_SGP.pdf>] <ngp_dra.png, id=204, 843.15pt x 592.1322pt>
+[12 <./cum_sn_best_NGP.pdf> <./cum_sn_best_SGP.pdf> <./cum_counts_best_NGP.pdf>
+ <./cum_counts_best_SGP.pdf>] <ngp_dra.png, id=212, 843.15pt x 592.1322pt>
 File: ngp_dra.png Graphic file (type png)
 
 <use ngp_dra.png>
-Package pdftex.def Info: ngp_dra.png used on input line 1030.
+Package pdftex.def Info: ngp_dra.png used on input line 1090.
 (pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
- <ngp_ddec.png, id=205, 843.15pt x 592.1322pt>
+ <ngp_ddec.png, id=213, 843.15pt x 592.1322pt>
 File: ngp_ddec.png Graphic file (type png)
 
 <use ngp_ddec.png>
-Package pdftex.def Info: ngp_ddec.png used on input line 1032.
+Package pdftex.def Info: ngp_ddec.png used on input line 1092.
 (pdftex.def)             Requested size: 193.92041pt x 136.18753pt.
- <sgp_dra.png, id=206, 843.15pt x 592.1322pt>
+ <sgp_dra.png, id=214, 843.15pt x 592.1322pt>
 File: sgp_dra.png Graphic file (type png)
 
 <use sgp_dra.png>
-Package pdftex.def Info: sgp_dra.png used on input line 1034.
-(pdftex.def)             Requested size: 505.8939pt x 78.71915pt.
- <sgp_ddec.png, id=208, 843.15pt x 592.1322pt>
+Package pdftex.def Info: sgp_dra.png used on input line 1094.
+(pdftex.def)             Requested size: 505.8939pt x 80.42632pt.
+ <sgp_ddec.png, id=216, 843.15pt x 592.1322pt>
 File: sgp_ddec.png Graphic file (type png)
 
 <use sgp_ddec.png>
-Package pdftex.def Info: sgp_ddec.png used on input line 1035.
-(pdftex.def)             Requested size: 505.8939pt x 116.27708pt.
+Package pdftex.def Info: sgp_ddec.png used on input line 1096.
+(pdftex.def)             Requested size: 505.8939pt x 121.39862pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1029--1036
-[]
- []
-
-
-Underfull \hbox (badness 1377) in paragraph at lines 1104--1113
+Underfull \hbox (badness 1377) in paragraph at lines 1165--1174
 \T1/aer/m/scit/10 Union Sev-enth Frame-work Pro-gramme ([FP7/2007-
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 1104--1113
+Underfull \hbox (badness 1142) in paragraph at lines 1165--1174
 \T1/aer/m/scit/10 2013] [FP7/2007-2011]) un-der grant agree-ment No.
  []
 
-[11] [12 <./sgp_dra.png (PNG copy)> <./sgp_ddec.png (PNG copy)> <./ngp_dra.png 
+[13] [14 <./sgp_dra.png (PNG copy)> <./sgp_ddec.png (PNG copy)> <./ngp_dra.png 
 (PNG copy)> <./ngp_ddec.png (PNG copy)>]
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1188.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1188.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1253.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1253.
  (./dr2_paper_v3.aux)
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1188.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1253.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1152,42 +1142,41 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12159 strings out of 493013
- 166755 string characters out of 6133344
- 316924 words of memory out of 5000000
- 15310 multiletter control sequences out of 15000+600000
- 92659 words of font info for 196 fonts, out of 8000000 for 9000
+ 12181 strings out of 493013
+ 166996 string characters out of 6133344
+ 356578 words of memory out of 5000000
+ 15327 multiletter control sequences out of 15000+600000
+ 94814 words of font info for 199 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,10n,38p,418b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,10n,38p,710b,543s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2016/texmf-dist/fonts/enc/dvips/base/ec.enc}{/usr/local/texlive/2016/tex
 mf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}</usr/local/texlive/2016/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2016/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2016/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmti8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmti9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmtt8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/new
-tx/ntxsups-Regular.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/t
-ex-gyre/qtmr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts
-/rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtx/rtxmi7.
-pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on dr2_paper_v3.pdf (12 pages, 1502350 bytes).
+onts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmti8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmti9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmtt8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newt
+x/ntxsups-Regular.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/te
+x-gyre/qtmr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/
+rtxmi.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtx/rtxmi7.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on dr2_paper_v3.pdf (14 pages, 1523529 bytes).
 PDF statistics:
- 343 PDF objects out of 1000 (max. 8388607)
- 273 compressed objects within 3 object streams
- 78 named destinations out of 1000 (max. 500000)
+ 350 PDF objects out of 1000 (max. 8388607)
+ 279 compressed objects within 3 object streams
+ 81 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
