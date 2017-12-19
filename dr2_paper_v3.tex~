@@ -32,8 +32,7 @@
 \usepackage{newtxtext,newtxmath}
 \usepackage[T1]{fontenc}
 \usepackage{ae,aecompl}
-
-%%%%% AUTHORS - PLACE YOUR OWN MACROS HERE %%%%%
+%\usepackage{longtable}
 
 %\usepackage{graphicx}
 %\usepackage{supertabular}
@@ -88,61 +87,71 @@
 
 \begin{document}
 
-\title{The \textit{Herschel}-ATLAS Data Release 2 -- Paper 2: Catalogues of
+\title{The \textit{Herschel}-ATLAS Data Release 2 Paper II: Catalogues of
        far-infrared and submillimetre sources in the fields at the south
        and north Galactic Poles}
 
 \correspondingauthor{S. J. Maddox}
 \email{maddoxs@cardiff.ac.uk}
 
-\author[0000-0001-5549-195X]{S.J. Maddox}
-\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
-\affiliation{Institute for Astronomy, The University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK.}
+\author[0000-0001-5549-195X]{S.J. Maddox} \affiliation{School of
+  Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24
+  3AA, UK.}  \affiliation{Institute for Astronomy, The University of
+  Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ,
+  UK.}
 
-\author{E. Valiante}
-\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+\author{E. Valiante} \affiliation{School of Physics and Astronomy,
+  Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
 
-\author{P. Cigan}
-\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+\author{P. Cigan} \affiliation{School of Physics and Astronomy,
+  Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
 
-\author{L. Dunne}
-\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
-\affiliation{Institute for Astronomy, The University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK.}
+\author{L. Dunne} \affiliation{School of Physics and Astronomy,
+  Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+\affiliation{Institute for Astronomy, The University of Edinburgh,
+  Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK.}
 
-\author{M. W. L. Smith}
-\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+\author{S. Eales} \affiliation{School of Physics and Astronomy,
+  Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
 
-\author{S. Eales}
-\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+\author{M. W. L. Smith} \affiliation{School of Physics and Astronomy,
+  Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
 
-\author{S. Dye}
-\affiliation{School of Physics and Astronomy, University of Nottingham, University Park, Nottingham, NG7 2RD, UK.}
+\author{S. Dye} \affiliation{School of Physics and Astronomy,
+  University of Nottingham, University Park, Nottingham, NG7 2RD, UK.}
 
-\author{C. Furlanetto}
-\affiliation{School of Physics and Astronomy, University of Nottingham, University Park, Nottingham, NG7 2RD, UK.}
-\affiliation{Departamento de Fisica, Universidade Federale do Rio Grande do Sul., Av. Bento Goncalves, 9500, 91501-970, Porto Algres, RS Brazil}
+\author{C. Furlanetto} \affiliation{School of Physics and Astronomy,
+  University of Nottingham, University Park, Nottingham, NG7 2RD, UK.}
+\affiliation{Departamento de Fisica, Universidade Federale do Rio
+  Grande do Sul., Av. Bento Goncalves, 9500, 91501-970, Porto Algres,
+  RS Brazil}
 
-\author{E. Ibar}
-\affiliation{§Instituto de F\'isica y Astronom\'ia, Universidad de Valpara\'iso, Avda. Gran Breta\~na 1111, Valpara\'iso, Chile.}
+\author{E. Ibar} \affiliation{Instituto de F\'isica y Astronom\'ia,
+  Universidad de Valpara\'iso, Avda. Gran Breta\~na 1111,
+  Valpara\'iso, Chile.}
 
+\author{ G. de Zotti} \affiliation{INAF-Osservatorio Astronomico di
+  Padova, Vicolo dell'Osservatorio 5, I-35122 Padova, Italy}
 
-\author{ G. de Zotti}
-\affiliation{INAF-Osservatorio Astronomico di Padova, Vicolo  dell’Osservatorio 5, I-35122 Padova, Italy}
+\author{J. S. Millard} \affiliation{School of Physics and Astronomy,
+  Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
 
-\author{J. S. Millard}
-\affiliation{School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.}
+\author{N. Bourne} \affiliation{Institute for Astronomy, The
+  University of Edinburgh, Royal Observatory, Blackford Hill,
+  Edinburgh, EH9 3HJ, UK.}
 
-\author{N. Bourne}
-\affiliation{Institute for Astronomy, The University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK.}
+\author{H. L. Gomez} \affiliation{School of Physics and Astronomy,
+  University of Nottingham, University Park, Nottingham, NG7 2RD, UK.}
 
-\author{H. L. Gomez}
-\affiliation{School of Physics and Astronomy, University of Nottingham, University Park, Nottingham, NG7 2RD, UK.}
+\author{R. J. Ivison} \affiliation{European Southern Observatory,
+  Karl-Schwarzschild-Strasse 2, 85748, Garching, Germany}
 
-\author{R. J. Ivison}
-\affiliation{European Southern Observatory, Karl-Schwarzschild-Strasse 2, 85748, Garching, Germany}
+\author{ D. Scott} \affiliation{Department of Physics \& Astronomy,
+  University of British Columbia, 6224 Agricultural Road, Vancouver,
+  BC V6T 1Z1, Canada}
 
-\author{I. Valtchanov}
-\affiliation{European Space Agency}
+\author{I. Valtchanov} \affiliation{Herschel Science Centre, European Space Astronomy Centre, ESA,
+  Villanueva de la Ca\~nada, E-28691 Madrid, Spain}
 
 
 \begin{abstract}
@@ -161,7 +170,7 @@
   map, and we present photometry in all five bands for each source,
   including aperture photometry for sources known to be extended.  The
   rms positional accuracy for the faintest sources is about 2.4 arc
-  seconds in both right ascension and declination.  We describe a
+  seconds in both right ascension and declination.  We present a
   statistical analysis of the catalogues and discuss the practical
   issues -- completeness, reliability, flux boosting, accuracy of
   positions, accuracy of flux measurements -- necessary to use the
@@ -418,17 +427,18 @@ catalogues is consistent with the errors, and not truncated at an
 arbitrary limit. 
 
 \begin{figure*} %3
-\includegraphics[width=0.3\textwidth]{flux_noise_250NGP.pdf}
-\includegraphics[width=0.3\textwidth]{flux_noise_350NGP.pdf}
-\includegraphics[width=0.3\textwidth]{flux_noise_500NGP.pdf}
-\includegraphics[width=0.3\textwidth]{flux_noise_250SGP.pdf}
-\includegraphics[width=0.3\textwidth]{flux_noise_350SGP.pdf}
-\includegraphics[width=0.3\textwidth]{flux_noise_500SGP.pdf}
+% \includegraphics[width=0.3\textwidth]{flux_noise_250NGP.pdf}
+% \includegraphics[width=0.3\textwidth]{flux_noise_350NGP.pdf}
+% \includegraphics[width=0.3\textwidth]{flux_noise_500NGP.pdf}
+% \includegraphics[width=0.3\textwidth]{flux_noise_250SGP.pdf}
+% \includegraphics[width=0.3\textwidth]{flux_noise_350SGP.pdf}
+% \includegraphics[width=0.3\textwidth]{flux_noise_500SGP.pdf}
+   \includegraphics[width=\textwidth]{noise_plots.pdf}
 \caption{The distribution of instrumental and total noise for the
   250-\micron, 350-\micron\ and 500-\micron\  bands for the NGP and SGP
   fields.  Green shows the instrumental noise and black the total
   noise for all pixels; red shows the instrumental noise and blue the
-  total noise at the positions of all sources.  The multiple peaks are
+  total noise at the positions of all sources. The multiple peaks are
   the results of our tiling strategy. The main peak corresponds to the
   large fraction of the survey area that was covered by two individual
   {\it Herschel} observations (S17). The smaller peaks correspond to
@@ -440,9 +450,10 @@ arbitrary limit.
 \end{figure*}
 
 \begin{figure} %4
-\includegraphics[width=0.5\textwidth]{flux_area_250.pdf}
-\includegraphics[width=0.5\textwidth]{flux_area_350.pdf}
-\includegraphics[width=0.5\textwidth]{flux_area_500.pdf}
+%  \includegraphics[width=0.5\textwidth]{flux_area.pdf}
+  \includegraphics[width=0.6\textwidth,trim=25mm 10mm -10mm 10mm]{flux_area.pdf}
+% \includegraphics[width=0.5\textwidth]{flux_area_350.pdf}
+% \includegraphics[width=0.5\textwidth]{flux_area_500.pdf}
 \caption{The relationship between area and 4$\sigma$ flux-density
   limit for the H-ATLAS fields: NGP - black; SGP - blue; GAMA9 -
   magenta; GAMA12 - green and  GAMA15 - cyan.  The more sensitive areas
@@ -451,7 +462,7 @@ arbitrary limit.
   high flux densities in the blue line in these panels.}
 
 \label{fig_areas}
-\end{figure}
+\end{figure} 
 
 \section{Photometry}
 
@@ -467,7 +478,7 @@ using {\tt MADX} to estimate their flux densities
 (Section 2.2).  
 They found that at 250\mic, the detection
 wavelength, the confusion noise varies as a function
-of source flux and gave a simple formula to approximate this:
+of source flux density and gave a simple formula to approximate this:
 \smallskip
 \begin{equation}
 \sigma_{\mathrm{con}250} = \sqrt{\min(0.0049,f_{250}/5.6)^2 +
@@ -501,7 +512,7 @@ western end that was covered by a single observation (S17).
 
 The variation of noise across the maps means that the 4$\sigma$
 flux-density limit varies over the fields, and hence the available
-area depends on the chosen flux limit. Figure~\ref{fig_areas}
+area depends on the chosen flux density limit. Figure~\ref{fig_areas}
 shows the relationship between area and flux-density limit for each of
 the H-ATLAS fields, including the GAMA fields.
 
@@ -521,11 +532,11 @@ the flux density because of the higher resolution of the PACS maps.
 V16 describes an extensive investigation of the optimum aperture size,
 and we follow that paper in using an aperture with a radius equal to
 the FWHM, which is 11.4 arc seconds for 100\mic\ and 13.7 arc seconds
-for 160\mic. {\bf Although the ``sky'' level has already been subtracted with
+for 160\mic. Although the ``sky'' level has already been subtracted with
 {\tt nebuliser}, we subtracted the mean value from each image before
 carrying out the photometry,
 to ensure that the statistical properties of the sources in the catalogues
-are not affected by any residual errors in the sky subtraction.}
+are not affected by any residual errors in the sky subtraction.
 To
 provide an accurate treatment of the contribution from fractional
 pixels near aperture boundaries, we divided each pixel into 16, and
@@ -628,7 +639,7 @@ subtracted with {\tt nebuliser},
 we subtracted the mean value
 from each image before carrying out the photometry, in order to
 avoid residual errors in the sky subtraction affecting the
-statistical properties of the catalogues.}
+statistical properties of the catalogues.
 As describe in Section 3.1.2, we divided each
 pixel into 16, assigning one sixteenth of the flux density in each
 sub-pixel, and added up the flux density in each sub-pixel within the
@@ -694,12 +705,11 @@ We found all 2MASS galaxies in the SGP region with
 $\mathtt{sup\_r\_3sig}>5.1$ arcsec, equivalent to
 $\mathtt{isoA\_r}=10\ $arcsec. There are 6249 of these galaxies. We
 then found all H-ATLAS sources in the SGP within 5 arcsec of a 2MASS
-galaxy. There are 3444 of these sources. {\bf We used the surface-density
+galaxy. There are 3444 of these sources. We used the surface-density
 of Herschel sources to estimate the probability of a Herschel source
-falling within 5 arcsec of a 2MASS galaxy by chance; we estimate
-that 
-only 23 (0.7\%) of these matches should not be
-physical associations of the H-ATLAS source and the 2MASS galaxy.}
+falling within 5 arcsec of a 2MASS galaxy by chance; we estimate that
+only 23 (0.7\%) of these matches should not be physical associations
+of the H-ATLAS source and the 2MASS galaxy.
 
 For these sources, we calculated the radius of the aperture
 to use for photometry using the relationship:
@@ -711,7 +721,7 @@ r_\mathrm{ap} = \sqrt{ \mathtt{FWHM}^2 + {(1.96
 This is the same as equation 2, except for the change
 in the parameter used to estimate the size of the galaxy.
 In principle we could use $\mathtt{sup\_r\_3sig}$ as our radius
-measure for {\bf the sources in the NGP}, but SDSS is significantly deeper than 2MASS
+measure for  the sources in the NGP, but SDSS is significantly deeper than 2MASS
 and so the measurements are likely to have smaller uncertainties. 
 
 As for the NGP, we then visually compared the apertures with the
@@ -733,105 +743,50 @@ for 1452 sources.
 
 \subsection{ Comparison to Planck photometry}
 
-Estimating the  flux density of extended sources is sensitive to the
+\begin{figure*}
+  \includegraphics[width=0.5\textwidth, trim=40mm .0mm 40.0mm .0mm, clip=True]{planck_comp350.pdf}
+  \includegraphics[width=0.5\textwidth, trim=40mm .0mm 40.0mm .0mm, clip=True]{planck_comp500.pdf}
+  \caption{Comparison between H-ATLAS and {\it Planck} flux density measurements for
+    350\mic\ and 500\mic\ bands.}\label{fig:planck}
+\end{figure*}
+
+
+Estimating the flux density of extended sources is sensitive to the
 background subraction and choice of aperture size, so it is useful to
 compare our extended source fluxes to other measurements available. In
-particular for the 350\mic\ and 500\mic\ bands, we have compared to the
-compact source catalogue from the Planck survey (Planck Collaboration
-XXVI, 2016).  Given the low-surface density of sources, a simple
-positional match is sufficient to cross-identify sources in common. We
-find 44 matches in the NGP, as plotted in Figure~\ref{fig:planck}.
-%listed in Table~\ref{tab:NGP}.
-We have
+particular for the 350\mic\ and 500\mic\ bands, we have compared to
+the compact source catalogue from the Planck survey (Planck
+Collaboration XXVI, 2016).  Given the low-surface density of sources,
+a simple positional match is sufficient to cross-identify sources in
+common. We find 43 matches in the NGP, and 42 in the SGP as listed in
+Table~\ref{tab:NGP} and plotted in Figure~\ref{fig:planck}.  We have
 adopted the \textit{Planck} APERFLUX photometry as recommended by
 Planck Collaboration XXVI (2016) for these wavelenghts. The
 \textit{Planck} 545\,GHz ($550\,\mu$m) flux densities, and their
 errors, have been scaled up by a factor of 1.35 to convert them to
 $500\,\mu$m.
 
+
 As seen in Figure~\ref{fig:planck}, there is a very good
-corespondence between the measurements wih no significant systematic
-offsets of non-linearities. Also, the scatter between the measurements
-is consistent with the quoted uncertainties.
-
-The estimated 90\% completeness limit of the Planck 350micron
-catalogue in the `extragalactic zone' (|b|> 30deg) given by Planck
-Collaboration XXVI (2016) is 791 mJy; the comparison with the HATLAS
-NGP catalogue suggests 90\% completeness down to F350BEST=650 mJy. So
-the quoted Planck limit seems quite conservative. The number of Planck
-detections at 550micron is too small to derive solid
-conclusions. However, again the estimated completeness limit (555 mJy,
-corresponding to 749 mJy at 500\mic) looks conservative: Planck has
-detected all HATLAS NGP sources with F500BEST > 400 mJy, but there are
-only 9 sources above this limit.
+correspondence between the measurements wih no significant systematic
+offsets or non-linearity. Also, the scatter between the measurements
+is consistent with the quoted uncertainties. There are a few cases
+(HATLASJ013906.2-295457, HATLASJ013150.3-330710,
+HATLASJ005747.0-273004) that correspond to nearby galaxies with
+optical diameters ~2.5-3 arcmin, where the Planck flux densities are
+~2$\sigma$ higher than the HATLAS measurements.
 
 
-% Plots of the Herschel and Planck 350 and 500\mic fluxes are shown in
-% Figure~\ref{fig:planck}.
-
-\begin{figure}
-  \includegraphics[width=0.6\textwidth, trim=40mm .0mm 0.0mm .0mm, clip=True]{planck_comp350}
-  \includegraphics[width=0.6\textwidth, trim=40mm .0mm 0.0mm .0mm, clip=True]{planck_comp500}
-  \caption{Comparison between H-ATLAS and Planck flux measurements for
-    350\mic\ and 500\mic\ bands.}\label{fig:planck}
-\end{figure}
-
-% \begin{table*}[!h]
-% \centering
-% \caption{Comparison of HATLAS with \textit{Planck} flux densities (Jy,
-%   rounded to 1\,mJy) at 350 and $500\,\mu$m for NGP sources.  }\label{tab:NGP}
-% \begin{tabular}{ccccc}
-%   \hline
-%    HATLAS\_IAU\_ID          &     F350BEST       & F$_{\rm Planck350}$ &      F500BEST     & F$_{\rm Planck500}$ \\
-%   \hline
-%   HATLASJ125026.0+252947  & $12.128\pm 2.696$  & $12.128\pm 2.696$   & $5.208 \pm 1.160$ & $5.666\pm 0.393$ \\
-%   HATLASJ132149.3+225342  & $5.820 \pm 3.611$  &     ---             & $0.058 \pm 0.151$ &       ---        \\
-%   HATLASJ125440.7+285619  & $4.974 \pm 0.285$  & $5.254\pm  0.204$   & $1.678 \pm 0.126$ & $1.836\pm 0.176$ \\
-%   HATLASJ131136.9+225454  & $3.469 \pm 0.304$  & $3.684\pm  0.265$   & $1.279 \pm 0.134$ & $1.328\pm 0.161$ \\
-%   HATLASJ132035.3+340824  & $2.255 \pm 0.009$  & $2.199\pm  0.270$   & $0.715 \pm 0.009$ & $0.869\pm 0.200$ \\
-%   HATLASJ133955.6+282402  & $1.701 \pm 0.131$  & $1.563\pm  0.181$   & $0.570 \pm 0.061$ & $0.471\pm 0.130$ \\
-%   HATLASJ125144.9+254615  & $1.589 \pm 0.215$  & $1.740\pm  0.154$   & $0.639 \pm 0.096$ & $0.842\pm 0.176$ \\
-%   HATLASJ131503.5+243709  & $1.588 \pm 0.008$  & $2.101\pm  0.298$   & $0.544 \pm 0.009$ & $0.976\pm 0.207$ \\
-%   HATLASJ133457.2+340238  & $1.311 \pm 0.108$  & $1.454\pm  0.271$   & $0.444 \pm 0.051$ & $0.424\pm 0.275$ \\
-%   HATLASJ125253.6+282216  & $1.168 \pm 0.099$  & $0.985\pm  0.142$   & $0.359 \pm 0.008$ & $0.512\pm 0.157$ \\
-%   HATLASJ132815.2+320157  & $1.043 \pm 0.093$  & $1.022\pm  0.280$   & $0.362 \pm 0.044$ &       ---        \\
-%   HATLASJ134308.8+302016  & $1.032 \pm 0.114$  & $0.605\pm  0.288$   & $0.319 \pm 0.009$ &       ---        \\
-%   HATLASJ131206.6+240543  & $1.019 \pm 0.029$  & $1.444\pm  0.278$   & $0.385 \pm 0.020$ &       ---        \\
-%   HATLASJ132255.7+265857  & $0.987 \pm 0.094$  & $0.958\pm  0.228$   & $0.330 \pm 0.045$ &       ---        \\
-%   HATLASJ131612.2+305702  & $0.925 \pm 0.117$  & $1.498\pm  0.310$   & $0.346 \pm 0.055$ &       ---        \\
-%   HATLASJ130547.6+274405  & $0.922 \pm 0.118$  & $1.278\pm  0.442$   & $0.363 \pm 0.055$ & $0.760\pm 0.292$ \\
-%   HATLASJ130514.1+315959  & $0.832 \pm 0.104$  & $0.840\pm  0.165$   & $0.258 \pm 0.008$ &       ---        \\
-%   HATLASJ130056.1+274727  & $0.769 \pm 0.023$  & $0.934\pm  0.269$   & $0.268 \pm 0.018$ &       ---        \\
-%    HATLASJ131244.8+314832  & $0.754 \pm 0.097$  &  ---                & $0.295 \pm 0.046$ &       ---        \\
-%   HATLASJ133026.1+313707  & $0.737 \pm 0.100$  & $0.861\pm  0.220$   & $0.267 \pm 0.047$ &       ---        \\
-%   HATLASJ124610.1+304355  & $0.718 \pm 0.047$  & $0.525\pm  0.342$   & $0.241 \pm 0.009$ &       ---        \\
-%   HATLASJ130125.2+291849  & $0.701 \pm 0.008$  & $0.854\pm  0.233$   & $0.232 \pm 0.009$ &       ---        \\
-%    HATLASJ131909.4+283022  & $0.699 \pm 0.142$  &     ---             & $0.243 \pm 0.065$ &       ---        \\
-%   HATLASJ130947.5+285424  & $0.680 \pm 0.122$  & $0.971\pm  0.168$   & $0.220 \pm 0.057$ &       ---        \\
-%   HATLASJ130617.2+290346  & $0.675 \pm 0.103$  & $1.057\pm  0.288$   & $0.247 \pm 0.049$ &       ---        \\
-%   HATLASJ131241.9+224950  & $0.650 \pm 0.154$  & $0.230\pm  0.209$   & $0.253 \pm 0.072$ &       ---        \\
-%    HATLASJ134107.9+231656  & $0.636 \pm 0.068$  &    ---              & $0.189 \pm 0.009$ &       ---        \\
-%   HATLASJ131101.7+293442  & $0.628 \pm 0.089$  & $1.114\pm  0.409$   & $0.189 \pm 0.008$ &       ---        \\
-%   HATLASJ125108.4+284705  & $0.611 \pm 0.090$  & $0.661\pm  0.285$   & $0.245 \pm 0.043$ &       ---        \\
-%    HATLASJ131432.5+304221  & $0.604 \pm 0.107$  &     ---             & $0.197 \pm 0.051$ &       ---        \\
-%   HATLASJ133550.1+345957  & $0.602 \pm 0.025$  & $1.056\pm  0.236$   & $0.200 \pm 0.019$ &       ---        \\
-%    HATLASJ130831.9+244159  & $0.582 \pm 0.026$  &     ---             & $0.216 \pm 0.019$ &       ---        \\
-%    HATLASJ130850.5+320953  & $0.577 \pm 0.008$  &     ---             & $0.207 \pm 0.008$ &       ---        \\
-%   HATLASJ132948.2+310748  & $0.559 \pm 0.017$  & $0.580\pm  0.308$   & $0.190 \pm 0.014$ &       ---        \\
-%    HATLASJ133329.1+330235  & $0.552 \pm 0.080$  &     ---             & $0.173 \pm 0.038$ &       ---        \\
-%   HATLASJ131730.6+310533  & $0.548 \pm 0.021$  & $0.610\pm  0.253$   & $0.196 \pm 0.016$ &       ---        \\
-%    HATLASJ131700.0+340607  & $0.547 \pm 0.020$  &     ---             & $0.217 \pm 0.016$ &       ---        \\
-%    HATLASJ133421.2+335619  & $0.537 \pm 0.009$  &     ---             & $0.181 \pm 0.009$ &       ---        \\
-%   HATLASJ131327.0+274807  & $0.520 \pm 0.114$  & $1.149\pm  0.379$   & $0.195 \pm 0.053$ &       ---        \\
-%   HATLASJ133554.6+353511  & $0.510 \pm 0.079$  & $0.925\pm  0.148$   & $0.187 \pm 0.038$ &       ---        \\
-%   HATLASJ125008.7+330933  & $0.509 \pm 0.022$  & $0.521\pm  0.209$   & $0.190 \pm 0.017$ &       ---        \\
-%   HATLASJ131745.2+273411  & $0.500 \pm 0.019$  & $1.178\pm  0.230$   & $0.169 \pm 0.015$ &       ---        \\
-%    HATLASJ133824.5+330704  & $0.494 \pm 0.105$  &     ---             & $0.149 \pm 0.009$ &       ---        \\
-%    HATLASJ131028.7+322044  & $0.363 \pm 0.008$  &     ---             & $0.452 \pm 0.008$ & $0.659\pm 0.216$ \\
-% 	\hline
-% \end{tabular}
-% \end{table*}
-
+The Planck Collaboration XXVI (2016) quote 90\% completeness limits of
+791\,mJy and 555\,mJy for the 350- and 550-\micron\ catalogues
+respectively. The comparison with the HATLAS catalogue suggests 90\%
+completeness down to {\tt F350BEST}=650\,mJy.  For the Planck
+550-\micron\ catalogue, the quoted 90\% completeness limit of
+555\,mJy, corresponds to 749\,mJy at 500\mic; the comparison with the
+HATLAS catalogue suggests 90\% completeness down to {\tt
+  F500BEST}=400\,mJy.  Despite the relatively small number of sources,
+our comparison suggests that quoted Planck limits are quite
+conservative.
 
 
 \subsection{Colour corrections and flux calibration}
@@ -862,6 +817,117 @@ On top of all other errors, there is an additional error due to the
 uncertain photometric calibration of {\it Herschel}. As in V16, we assume
 conservative calibration errors of 5.5\% for the three SPIRE wavebands
 and 7\% for PACS (see V16 for more details).
+
+\startlongtable
+\begin{deluxetable*}{lllll}
+  \tablecaption{Comparison of HATLAS with \textit{Planck} flux
+    densities (Jy, rounded to 1\,mJy) at 350 and $500\,\mu$m.  We have
+    adopted the \textit{Planck} APERFLUX photometry as recommended by
+    Planck Collaboration XXVI (2016) for these
+    wavelenghts. \textit{Planck} 545\,GHz ($550\,\mu$m) flux
+    densities, and their errors, have been scaled up by a factor of
+    1.35 to convert them to $500\,\mu$m.
+  \label{tab:NGP}}
+\tabletypesize{\scriptsize}
+  \tablewidth{0pt}
+\tablehead{
+\colhead{HATLAS\_IAU\_ID} &
+\colhead{F350BEST} &
+\colhead{F$_{\rm Planck350}$}&
+\colhead{ F500BEST} &
+\colhead{F$_{\rm Planck500}$}
+}
+\startdata
+  HATLASJ125026.0+252947  & $12.128\pm 2.696$  & $12.128\pm 2.696$   & $5.208 \pm 1.160$ & $5.666\pm 0.393$ \\
+%  junk HATLASJ132149.3+225342  & $5.820 \pm 3.611$  &     ---             & $0.058 \pm 0.151$ &       ---        \\
+  HATLASJ125440.7+285619  & $4.974 \pm 0.285$  & $5.254\pm  0.204$   & $1.678 \pm 0.126$ & $1.836\pm 0.176$ \\
+  HATLASJ131136.9+225454  & $3.469 \pm 0.304$  & $3.684\pm  0.265$   & $1.279 \pm 0.134$ & $1.328\pm 0.161$ \\
+  HATLASJ132035.3+340824  & $2.255 \pm 0.009$  & $2.199\pm  0.270$   & $0.715 \pm 0.009$ & $0.869\pm 0.200$ \\
+  HATLASJ133955.6+282402  & $1.701 \pm 0.131$  & $1.563\pm  0.181$   & $0.570 \pm 0.061$ & $0.471\pm 0.130$ \\
+  HATLASJ125144.9+254615  & $1.589 \pm 0.215$  & $1.740\pm  0.154$   & $0.639 \pm 0.096$ & $0.842\pm 0.176$ \\
+  HATLASJ131503.5+243709  & $1.588 \pm 0.008$  & $2.101\pm  0.298$   & $0.544 \pm 0.009$ & $0.976\pm 0.207$ \\
+  HATLASJ133457.2+340238  & $1.311 \pm 0.108$  & $1.454\pm  0.271$   & $0.444 \pm 0.051$ & $0.424\pm 0.275$ \\
+  HATLASJ125253.6+282216  & $1.168 \pm 0.099$  & $0.985\pm  0.142$   & $0.359 \pm 0.008$ & $0.512\pm 0.157$ \\
+  HATLASJ132815.2+320157  & $1.043 \pm 0.093$  & $1.022\pm  0.280$   & $0.362 \pm 0.044$ &       ---        \\
+  HATLASJ134308.8+302016  & $1.032 \pm 0.114$  & $0.605\pm  0.288$   & $0.319 \pm 0.009$ &       ---        \\
+  HATLASJ131206.6+240543  & $1.019 \pm 0.029$  & $1.444\pm  0.278$   & $0.385 \pm 0.020$ &       ---        \\
+  HATLASJ132255.7+265857  & $0.987 \pm 0.094$  & $0.958\pm  0.228$   & $0.330 \pm 0.045$ &       ---        \\
+  HATLASJ131612.2+305702  & $0.925 \pm 0.117$  & $1.498\pm  0.310$   & $0.346 \pm 0.055$ &       ---        \\
+  HATLASJ130547.6+274405  & $0.922 \pm 0.118$  & $1.278\pm  0.442$   & $0.363 \pm 0.055$ & $0.760\pm 0.292$ \\
+  HATLASJ130514.1+315959  & $0.832 \pm 0.104$  & $0.840\pm  0.165$   & $0.258 \pm 0.008$ &       ---        \\
+  HATLASJ130056.1+274727  & $0.769 \pm 0.023$  & $0.934\pm  0.269$   & $0.268 \pm 0.018$ &       ---        \\
+  HATLASJ131244.8+314832  & $0.754 \pm 0.097$  &  ---                & $0.295 \pm 0.046$ &       ---        \\
+  HATLASJ133026.1+313707  & $0.737 \pm 0.100$  & $0.861\pm  0.220$   & $0.267 \pm 0.047$ &       ---        \\
+  HATLASJ124610.1+304355  & $0.718 \pm 0.047$  & $0.525\pm  0.342$   & $0.241 \pm 0.009$ &       ---        \\
+  HATLASJ130125.2+291849  & $0.701 \pm 0.008$  & $0.854\pm  0.233$   & $0.232 \pm 0.009$ &       ---        \\
+  HATLASJ131909.4+283022  & $0.699 \pm 0.142$  &     ---             & $0.243 \pm 0.065$ &       ---        \\
+  HATLASJ130947.5+285424  & $0.680 \pm 0.122$  & $0.971\pm  0.168$   & $0.220 \pm 0.057$ &       ---        \\
+  HATLASJ130617.2+290346  & $0.675 \pm 0.103$  & $1.057\pm  0.288$   & $0.247 \pm 0.049$ &       ---        \\
+  HATLASJ131241.9+224950  & $0.650 \pm 0.154$  & $0.230\pm  0.209$   & $0.253 \pm 0.072$ &       ---        \\
+  HATLASJ134107.9+231656  & $0.636 \pm 0.068$  &    ---              & $0.189 \pm 0.009$ &       ---        \\
+  HATLASJ131101.7+293442  & $0.628 \pm 0.089$  & $1.114\pm  0.409$   & $0.189 \pm 0.008$ &       ---        \\
+  HATLASJ125108.4+284705  & $0.611 \pm 0.090$  & $0.661\pm  0.285$   & $0.245 \pm 0.043$ &       ---        \\
+  HATLASJ131432.5+304221  & $0.604 \pm 0.107$  &     ---             & $0.197 \pm 0.051$ &       ---        \\
+  HATLASJ133550.1+345957  & $0.602 \pm 0.025$  & $1.056\pm  0.236$   & $0.200 \pm 0.019$ &       ---        \\
+  HATLASJ130831.9+244159  & $0.582 \pm 0.026$  &     ---             & $0.216 \pm 0.019$ &       ---        \\
+  HATLASJ130850.5+320953  & $0.577 \pm 0.008$  &     ---             & $0.207 \pm 0.008$ &       ---        \\
+  HATLASJ132948.2+310748  & $0.559 \pm 0.017$  & $0.580\pm  0.308$   & $0.190 \pm 0.014$ &       ---        \\
+  HATLASJ133329.1+330235  & $0.552 \pm 0.080$  &     ---             & $0.173 \pm 0.038$ &       ---        \\
+  HATLASJ131730.6+310533  & $0.548 \pm 0.021$  & $0.610\pm  0.253$   & $0.196 \pm 0.016$ &       ---        \\
+  HATLASJ131700.0+340607  & $0.547 \pm 0.020$  &     ---             & $0.217 \pm 0.016$ &       ---        \\
+  HATLASJ133421.2+335619  & $0.537 \pm 0.009$  &     ---             & $0.181 \pm 0.009$ &       ---        \\
+  HATLASJ131327.0+274807  & $0.520 \pm 0.114$  & $1.149\pm  0.379$   & $0.195 \pm 0.053$ &       ---        \\
+  HATLASJ133554.6+353511  & $0.510 \pm 0.079$  & $0.925\pm  0.148$   & $0.187 \pm 0.038$ &       ---        \\
+  HATLASJ125008.7+330933  & $0.509 \pm 0.022$  & $0.521\pm  0.209$   & $0.190 \pm 0.017$ &       ---        \\
+  HATLASJ131745.2+273411  & $0.500 \pm 0.019$  & $1.178\pm  0.230$   & $0.169 \pm 0.015$ &       ---        \\
+  HATLASJ133824.5+330704  & $0.494 \pm 0.105$  &     ---             & $0.149 \pm 0.009$ &       ---        \\
+  HATLASJ131028.7+322044  & $0.363 \pm 0.008$  &     ---             & $0.452 \pm 0.008$ & $0.659\pm 0.216$ \\
+	\hline
+  HATLASJ235749.9$-$323526 & $24.881 \pm 1.894$ & $24.513 \pm 0.723$ & $10.667 \pm 0.821$ & $11.743 \pm 0.566$\\
+  HATLASJ003024.0$-$331419 & $22.390\pm 1.140$ & $23.014 \pm 0.447$ & $8.103 \pm 0.497$ & $8.624\pm 0.243$ \\
+  HATLASJ013418.2$-$292506 & $17.557 \pm 1.040$ & $16.747 \pm 3.56$ & $5.931 \pm 0.452$ &  $5.979 \pm 0.202$\\
+  HATLASJ005242.2$-$311222 & $4.922 \pm 0.445$ & $6.425 \pm 0.225$ & $1.788 \pm 0.198$ & $2.892 \pm 0.220$ \\
+  HATLASJ003415.3$-$274812 & $4.063 \pm 0.407$ & $4.183 \pm 0.341$ & $1.482 \pm 0.180$ & $1.705 \pm  0.181$\\
+  HATLASJ234751.7$-$303118 & $3.420 \pm 0.433$ & $3.317 \pm 0.170$  & $1.288 \pm 0.192$ & $1.386 \pm 0.212$\\
+  HATLASJ225801.7$-$334432 & $3.294 \pm 0.225$ & $3.627 \pm 0.266 $ &  $1.149 \pm 0.102$ & $1.404 \pm 0.173$ \\
+  HATLASJ003658.8$-$292839 & $2.246 \pm 0.009  $  &$2.486 \pm 0.382$ & $0.741 \pm 0.009 $   &  $0.601 \pm 0.227$\\
+  HATLASJ224218.1$-$300333 & $1.963 \pm 0.312$  &  $1.768 \pm 0.184$ & $0.869 \pm 0.140 $ &$0.629 \pm 0.217$\\
+  HATLASJ011407.0$-$323908 & $1.622 \pm 0.123$  & $2.097 \pm 0.507$ & $0.629 \pm 0.058 $ &   $0.763 \pm 0.327$ \\
+  HATLASJ000833.7$-$335147 & $1.533 \pm 0.235$ & $1.322 \pm 0.309$ & $0.504 \pm 0.107$  & --- \\
+  HATLASJ222421.6$-$334139 & $1.519 \pm 0.043 $  &$1.819 \pm 0.156$ &  $0.481 \pm 0.031 $ &  $0.953 \pm 0.151$ \\
+  HATLASJ013906.2$-$295457 & $1.445 \pm 0.034 $  & $2.064  \pm 0.374$ & $0.545 \pm 0.024 $ & $0.803\pm 0.231$ \\
+  HATLASJ011035.6$-$301316 & $1.314 \pm 0.035 $  & $1.482  \pm 0.180$  & $0.497 \pm 0.025 $ & $0.536 \pm 0.216$\\
+  HATLASJ222521.1$-$312116 & $1.251 \pm 0.120$ & $1.551 \pm 0.294$ & $0.480 \pm 0.058$ &  --- \\
+  HATLASJ014021.4$-$285445 & $1.224 \pm 0.093$ & --- & $0.421 \pm 0.455$ & $0.990 \pm 0.259 $\\
+  HATLASJ013150.3$-$330710 & $1.192 \pm 0.118$  & $2.073  \pm 0.308$ & $0.397 \pm 0.056 $ &  $0.983 \pm 0.198$\\
+  HATLASJ010612.2$-$301041 & $1.150 \pm 0.131$  & $1.074 \pm 0.294$& $0.388 \pm 0.062$  & --- \\
+  HATLASJ014744.6$-$333607 & $1.089 \pm 0.035$ & $1.060 \pm 0.287$ & $ 0.365 \pm 0.025$ & --- \\
+  HATLASJ005747.0$-$273004 & $1.073 \pm 0.032 $  & $2.043  \pm 0.560$ & $0.445 \pm 0.023 $ &   $1.118 \pm 0.258$ \\
+  HATLASJ010456.0$-$272545 & $1.035 \pm 0.032$ & $1.364 \pm 0.266$ & $ 0.365 \pm 0.023$ & --- \\
+  HATLASJ225956.7$-$341415 & $1.033 \pm 0.118$& $1.218 \pm 0.267$ & $ 0.314 \pm 0.009$  & --- \\
+  HATLASJ011101.1$-$302620 & $0.997 \pm 0.033$ & $0.770 \pm 0.182$  & $0.362 \pm 0.024$ & --- \\
+  HATLASJ222610.7$-$310840 & $0.956 \pm 0.093$ &  $0.621 \pm 0.349 $ & $ 0.342 \pm 0.046$ & --- \\
+  HATLASJ011429.7$-$311053 & $0.917 \pm 0.114$ & $1.069 \pm 0.280 $ & $0.331 \pm 0.054 $  & --- \\
+  HATLASJ012658.0$-$323234 & $0.845 \pm 0.097$  & $0.982 \pm 0.341 $& $ 0.296 \pm 0.046 $  &  --- \\
+  HATLASJ012315.0$-$325028 & $0.806 \pm 0.031$ & $0.744 \pm 0.465 $  & $0.277 \pm 0.023$ & --- \\
+  HATLASJ002354.3$-$323210 & $0.803 \pm 0.030$  & $1.108 \pm 0.193$ & $0.314 \pm 0.022 $  & --- \\
+  HATLASJ002938.2$-$331534 & $0.745 \pm 0.111$  & $0.747 \pm 0.363$ & $0.296  \pm 0.052$  & --- \\
+  HATLASJ011122.3$-$291404 & $0.727 \pm 0.031$ & $1.547 \pm 0.455$ & $0.278 \pm 0.022$ & ---  \\
+  HATLASJ005457.3$-$320115 & $0.719 \pm 0.008$ & $0.780 \pm 0.258$  & $0.245 \pm 0.009$ & --- \\
+  HATLASJ012434.5$-$331024 & $0.640 \pm 0.030$  & $0.946 \pm 0.288$  & $0.204 \pm 0.022$ & --- \\
+  HATLASJ230549.0$-$303642 & $0.637 \pm 0.085$  & $0.868 \pm 0.345$  & $0.191 \pm 0.009$ & --- \\
+  HATLASJ000254.5$-$341407 & $0.572 \pm 0.026$ & $1.160 \pm 0.409$  & $0.207 \pm 0.020$ & --- \\
+  HATLASJ001112.7$-$333442 & $0.499 \pm 0.036$ & $0.555 \pm 0.221$ & $0.171 \pm 0.026$ & --- \\
+  HATLASJ003651.4$-$282200 & $0.466 \pm 0.065$& $0.438 \pm 0.324$  & $0.162 \pm 0.032$ & --- \\
+  HATLASJ010723.3$-$324943 & $0.448 \pm 0.047$ & $0.839 \pm 0.881$  & $0.141 \pm 0.009$ & --- \\
+  HATLASJ225739.6$-$293730 & $0.433 \pm 0.009$  & $0.975  \pm 0.293$ & $0.292 \pm 0.009$ & --- \\
+  HATLASJ004806.7$-$284818 & $0.407 \pm 0.008$ & $0.069 \pm 0.238$  & $0.126 \pm 0.009$  & --- \\
+  HATLASJ235939.7$-$342829 & $0.352 \pm 0.064$ & $0.733 \pm 0.215 $ & $0.095 \pm 0.009$ & --- \\
+  HATLASJ005852.3$-$281812 & $0.349 \pm 0.019$ & $0.209  \pm 0.490$ & $0.113 \pm 0.015$ & --- \\
+  HATLASJ233007.0$-$310738 & $0.213 \pm 0.040$ & $0.433  \pm 0.305$ & $0.101 \pm 0.022$ & --- \\
+\enddata
+\end{deluxetable*}
+
 
 \section{The Catalogues}
 
@@ -900,8 +966,8 @@ were detected at $>4\sigma$ at 250 $\mu$m, 46,872 at $>4\sigma$ at 350
 $\mu$m and 10,369 at $>4\sigma$ at 500 $\mu$m. The effective
 sensitivity of the PACS images was much less, but the catalogues
 contain flux-density measurements at 100 $\mu$m and 160 $\mu$m for all
-the sources in the catalogue. 4,207 sources were detected at
-$>3\sigma$ at 100 $\mu$m and 6,342 sources were detected at $>3\sigma$
+the sources in the catalogue. 5,036 sources were detected at
+$>3\sigma$ at 100 $\mu$m and 7,109 sources were detected at $>3\sigma$
 at 160 $\mu$m.
 
 
@@ -926,10 +992,10 @@ Fomalhaut & 22:57:39.2 $-$29:37:22 \\
 \enddata
 \end{deluxetable}
 
-The catalogue for the SGP contains 193,536 sources, of which 182,210 were
+The catalogue for the SGP contains 193,536 sources, of which 182,290 were
 detected at $>4\sigma$ at 250 $\mu$m, 74,061 at $>4\sigma$ at 350 $\mu$m
-and 16,076 at $>4\sigma$ at 500 $\mu$m.  5500 sources were detected at
-$>3\sigma$ at 100 $\mu$m and 10,86 sources were detected at $>3\sigma$
+and 16,076 at $>4\sigma$ at 500 $\mu$m.  8,599 sources were detected at
+$>3\sigma$ at 100 $\mu$m and 11,894 sources were detected at $>3\sigma$
 at 160 $\mu$m.
 
 The cumulative number of sources as a function of signal-to-noise in
@@ -962,7 +1028,7 @@ predictions.
 \textsl{}  \includegraphics[width=0.5\textwidth]{cum_counts_best_NGP.pdf}\\
   \includegraphics[width=0.5\textwidth]{cum_counts_best_SGP.pdf}
   \caption{\protect\label{fig_cum_flux} The cumulative number of
-    sources as a function of flux at 100\mic\ (black), 160\mic\ (blue),
+    sources as a function of flux density at 100\mic\ (black), 160\mic\ (blue),
     250\mic (cyan), 350\mic\ (green) and 500\mic\ (red). The NGP area is
     shown in the top panel, and the SGP in the bottom panel. The
     counts are plotted only above the limit of 3$\sigma$ in each wave
@@ -1030,8 +1096,9 @@ are around 1 arcsec, less than the quoted absolute pointing accuracy of
 \hspace{13mm}
 \includegraphics[scale=0.23]{ngp_ddec.png}
 \hspace{30mm}\\
-\includegraphics[scale=0.6,trim={0 87mm 0mm 75mm}, clip]{sgp_dra.png}
-\includegraphics[scale=0.6,trim={0 60mm 0mm 80mm}, clip]{sgp_ddec.png}
+\includegraphics[scale=0.6,trim={0 86mm 0mm 75mm}, clip]{sgp_dra.png}
+
+\includegraphics[scale=0.6,trim={0 60mm 0mm 77mm}, clip]{sgp_ddec.png}
 \caption{\protect\label{fig_pos_errs} The mean positional errors in
   R.A and Dec. averaged in areas 0.5 deg$\times$0.5deg as a
   function of position on the sky for the NGP and SGP
@@ -1041,12 +1108,11 @@ are around 1 arcsec, less than the quoted absolute pointing accuracy of
 
 \subsection{Purity, flux boosting and completeness}
 
-{\bf The catalogue is a 4-$\sigma$ catalogue and so we can use
-Gaussian statistics to predict the number of sources that will actually be noise 
-fluctuations; on this basis we 
-expect $\simeq$0.2\% of the sources
-in the catalogue to be spurious.} However, V16 argue that this is
-likely to be a significant overestimate because our errors, while
+The catalogue is a 4-$\sigma$ catalogue and so we can use Gaussian
+statistics to predict the number of sources that will actually be
+noise fluctuations; on this basis we expect $\simeq$0.2\% of the
+sources in the catalogue to be spurious. However, V16 argue that this
+is likely to be a significant overestimate because our errors, while
 being good estimates of the errors on the flux measurements, are
 likely to underestimate the signal-to-noise of a detection.
 
@@ -1101,7 +1167,7 @@ catalogues for astronomical projects.
 
 \section*{Acknowledgments}
 
-PC, LD, HLG, SM and JSM acknowledge support from the European Research
+PC, LD, HLG, SJM and JSM acknowledge support from the European Research
 Council (ERC) in the form of Consolidator Grant {\sc CosmicDust}
 (ERC-2014-CoG-647939, PI H\,L\,Gomez).  SJM, LD, NB and RJI acknowledge
 support from the ERC in the form of the Advanced Investigator Program,
@@ -1110,11 +1176,14 @@ acknowledge funding from the UK Science and Technology Facilities
 Council consolidated grant ST/K000926/1.  MS and SAE have received
 funding from the European Union Seventh Framework Programme
 ([FP7/2007-2013] [FP7/2007-2011]) under grant agreement No. 607254.
+GDZ acknowledges financial support from ASI/INAF and ASI/University of
+Roma Tor Vergata n.$\sim$2014-024-R.1 and n. 2016-24-H.0
 
 The {\it Herschel}-ATLAS is a project carried out using data from {\it
   Herschel}, which is an ESA space observatory with science
 instruments provided by European-led Principal Investigator consortia
 and with important participation from NASA.
+
 
 \begin{thebibliography}{}
 
@@ -1183,6 +1252,9 @@ ApJ, 278, L1
 in press (arXiv: 1707.09022)
 
 \end{thebibliography}
+
+
+
 \label{lastpage}
 
 \end{document}
